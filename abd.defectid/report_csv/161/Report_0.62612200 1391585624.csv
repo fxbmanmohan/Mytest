@@ -1,0 +1,6 @@
+Project,Inspection Id,Location,Date Raised,Inspected By,Inspecton Type,Raised By,Issue To,Fixed By Date,Cost Attribute,Status,Description,Note,Cost Impact,Cost Impact Price
+communication,9931391582287,Apartment 1 > Kitchen > Washroom,05/02/2014,testqama,Warranty,Architect,Marco Polo (John  James),08/02/2014,None,Pending,Missing hinge,,,None,0.00
+communication,9931391582360,Apartment 2,05/02/2014,testqama,Warranty,Structural Engineer,Smith Plumbing (Billy Johns),06/02/2014,None,Fixed,Re plaster wall,,,None,0.00
+communication,9931391582498,Apartment 2 > Barhtroom,05/02/2014,testqama,Defect,Builder,ABC Kitchens (Justin Smith),08/02/2014,None,Pending,Thin paint,,,None,0.00
+communication,9931391582514,Apartment 2 > Barhtroom,05/02/2014,testqama,Incomplete Works,Builder,ABC Kitchens (Justin Smith),08/02/2014,None,Open,Thin paint,,,None,0.00
+communication,9931391582568,Apartment 1 > Balcony,05/02/2014,testqama,Warranty,Builder,Marco Polo (John  James),08/02/2014,None,Open,Missing hinge,,,None,0.00

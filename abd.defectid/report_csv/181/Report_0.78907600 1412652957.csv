@@ -1,0 +1,338 @@
+Project,Inspection Id,Location,Date Raised,Inspected By,Inspecton Type,Raised By,Issue To,Fixed By Date,Cost Attribute,Status,Description,Note,Cost Impact,Cost Impact Price
+La Scala,8491405036476,Level 01,11/07/2014,billb,Defect,Superintendant,ABD Group (Mick S),19/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475571,Level 01 > 101D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475585,Level 01 > 102D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475598,Level 01 > 103D,16/07/2014,billb,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475611,Level 01 > 104D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475623,Level 01 > 105D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475635,Level 01 > 106D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475648,Level 01 > 107D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475659,Level 01 > 108D,16/07/2014,billb,Defect,Superintendant,Dynamite Cleaning (DC),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475672,Level 01 > 109D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475686,Level 01 > 110D,16/07/2014,billb,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475699,Level 01 > 111D,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475716,Level 01 > 113D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475730,Level 01 > 114D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475743,Level 01 > 115D,16/07/2014,billb,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405475756,Level 01 > 116D,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,General clean,,,None,0.00
+La Scala,8491405476059,Level 01 > 116D > Bathroom,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405476080,Level 01 > 116D > Bathroom,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Pencil mark,,,None,0.00
+La Scala,8491405476127,Level 01 > 116D > Laundry,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405476160,Level 01 > 116D > Bathroom,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405476312,Level 01 > 116D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint ceiling,,,None,0.00
+La Scala,8491405476330,Level 01 > 116D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint ceiling,,,None,0.00
+La Scala,8491405476354,Level 01 > 116D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405476458,Level 01 > 116D > Living,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up scratches,,,None,0.00
+La Scala,8491405476479,Level 01 > 116D > Living,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405476498,Level 01 > 116D > Living,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405476639,Level 01 > 116D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405476683,Level 01 > 116D > Kitchen,16/07/2014,billb,Defect,Superintendant,DPS (Bruce),25/07/2014,None,Open,Drawer jam at bench top,,,None,0.00
+La Scala,8491405476748,Level 01 > 116D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405476908,Level 01 > 115D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405476944,Level 01 > 115D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Waste pipe incomplete,,,None,0.00
+La Scala,8491405476971,Level 01 > 115D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405477002,Level 01 > 115D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Need caulking, clean paint marks",,,None,0.00
+La Scala,8491405477184,Level 01 > 115D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Wall need 2nd coat,,,None,0.00
+La Scala,8491405477207,Level 01 > 115D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Fill gap,,,None,0.00
+La Scala,8491405477232,Level 01 > 115D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Adjust doors,,,None,0.00
+La Scala,8491405477253,Level 01 > 115D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Reinstall door touch latch,,,None,0.00
+La Scala,8491405477291,Level 01 > 115D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Drawer jam at bench top Install door,,,None,0.00
+La Scala,8491405477321,Level 01 > 115D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405477392,Level 01 > 115D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405477440,Level 01 > 115D > Living,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint and touch up,,,None,0.00
+La Scala,8491405477533,Level 01 > 115D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405477566,Level 01 > 115D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405477586,Level 01 > 115D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405477609,Level 01 > 115D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Adjust door, hard to slide",,,None,0.00
+La Scala,8491405477776,Level 01 > 114D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405477819,Level 01 > 114D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405477840,Level 01 > 114D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405477857,Level 01 > 114D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Waste pipe incomplete,,,None,0.00
+La Scala,8491405477888,Level 01 > 114D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Need caulking
+",,,None,0.00
+La Scala,8491405477933,Level 01 > 114D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking and cleaning the paint marks,,,None,0.00
+La Scala,8491405478029,Level 01 > 114D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Repaint
+Scratches to paint",,,None,0.00
+La Scala,8491405478062,Level 01 > 114D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405478096,Level 01 > 114D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Unable to slide,,,None,0.00
+La Scala,8491405478243,Level 01 > 114D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405478361,Level 01 > 114D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and repaint bulkhead,,,None,0.00
+La Scala,8491405478393,Level 01 > 114D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Drawer jam,,,None,0.00
+La Scala,8491405478449,Level 01 > 114D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Patch hole
+Reinstall door touch latch",,,None,0.00
+La Scala,8491405478467,Level 01 > 114D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Wall need repaint ,,,None,0.00
+La Scala,8491405478521,Level 01 > 114D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up marks on wall ,,,None,0.00
+La Scala,8491405479741,Level 01 > 113D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Patch, touch up and repaint",,,None,0.00
+La Scala,8491405479770,Level 01 > 113D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405479817,Level 01 > 113D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and repaint,,,None,0.00
+La Scala,8491405479842,Level 01 > 113D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up and repaint,,,None,0.00
+La Scala,8491405479987,Level 01 > 113D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up paint,,,None,0.00
+La Scala,8491405480007,Level 01 > 113D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and paint,,,None,0.00
+La Scala,8491405480025,Level 01 > 113D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405480041,Level 01 > 113D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Drawers jam,,,None,0.00
+La Scala,8491405480066,Level 01 > 113D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Reinstall door touch latch,,,None,0.00
+La Scala,8491405480123,Level 01 > 113D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Edging comes off,,,None,0.00
+La Scala,8491405480311,Level 01 > 113D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405480352,Level 01 > 113D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405480378,Level 01 > 113D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and paint,,,None,0.00
+La Scala,8491405480407,Level 01 > 113D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up and caulking,,,None,0.00
+La Scala,8491405480557,Level 01 > 113D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405480571,Level 01 > 113D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Adjust drawer,,,None,0.00
+La Scala,8491405480593,Level 01 > 113D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Waste pipe incomplete,,,None,0.00
+La Scala,8491405480623,Level 01 > 113D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Clean paint marks
+Caulking",,,None,0.00
+La Scala,8491405480654,Level 01 > 113D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and repaint ,,,None,0.00
+La Scala,8491405480849,Level 01 > 111D > Laundry,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405480944,Level 01 > 111D > Bathroom,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Drawer jam Caulking to bench top Incomplete basin and plumbing works,,,None,0.00
+La Scala,8491405480966,Level 01 > 111D > Bathroom,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405481140,Level 01 > 111D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405481173,Level 01 > 111D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up scratch,,,None,0.00
+La Scala,8491405481205,Level 01 > 111D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up scratch,,,None,0.00
+La Scala,8491405481231,Level 01 > 111D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Clean,,,None,0.00
+La Scala,8491405481271,Level 01 > 111D > Bedroom 1,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405481518,Level 01 > 111D > Bedroom 2,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405481538,Level 01 > 111D > Bedroom 2,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Damaged,,,None,0.00
+La Scala,8491405481577,Level 01 > 111D > Bedroom 2,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and repaint,,,None,0.00
+La Scala,8491405481593,Level 01 > 111D > Bedroom 2,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Cover to Gpo,,,None,0.00
+La Scala,8491405481613,Level 01 > 111D > Bedroom 2,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405481639,Level 01 > 111D > Bedroom 2,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Re caulk,,,None,0.00
+La Scala,8491405481816,Level 01 > 111D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Missing soft close,,,None,0.00
+La Scala,8491405481867,Level 01 > 111D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405481940,Level 01 > 111D > Kitchen,16/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405484638,Level 01 > 110D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405484668,Level 01 > 110D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405484685,Level 01 > 110D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch,,,None,0.00
+La Scala,8491405484702,Level 01 > 110D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up scratch,,,None,0.00
+La Scala,8491405484723,Level 01 > 110D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Incomplete pipe work,,,None,0.00
+La Scala,8491405484771,Level 01 > 110D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405484884,Level 01 > 110D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Door hard to slide,,,None,0.00
+La Scala,8491405484923,Level 01 > 110D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint and touch up,,,None,0.00
+La Scala,8491405484965,Level 01 > 110D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405485560,Level 01 > 110D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and repaint,,,None,0.00
+La Scala,8491405485594,Level 01 > 110D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405485615,Level 01 > 110D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Re caulk,,,None,0.00
+La Scala,8491405485655,Level 01 > 110D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Door jam,,,None,0.00
+La Scala,8491405485746,Level 01 > 110D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Clean dust, repaint if needed",,,None,0.00
+La Scala,8491405485771,Level 01 > 110D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and paint skirting,,,None,0.00
+La Scala,8491405485788,Level 01 > 110D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405485945,Level 01 > 110D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch up,,,None,0.00
+La Scala,8491405485956,Level 01 > 110D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Re caulk,,,None,0.00
+La Scala,8491405485976,Level 01 > 110D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405486042,Level 01 > 110D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Caulking to benchtop and splashback,,,None,0.00
+La Scala,8491405486067,Level 01 > 110D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Reinstall latch,,,None,0.00
+La Scala,8491405486085,Level 01 > 110D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up chip,,,None,0.00
+La Scala,8491405486144,Level 01 > 110D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405486163,Level 01 > 110D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405486341,Level 01 > 109D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405486371,Level 01 > 109D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Incomplete plumbing work,,,None,0.00
+La Scala,8491405486396,Level 01 > 109D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405486444,Level 01 > 109D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405486473,Level 01 > 109D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Missing soap holder,,,None,0.00
+La Scala,8491405486585,Level 01 > 109D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Fill gap,,,None,0.00
+La Scala,8491405486618,Level 01 > 109D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint ,,,None,0.00
+La Scala,8491405486635,Level 01 > 109D > Bedroom 1,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Clean paint mark,,,None,0.00
+La Scala,8491405486777,Level 01 > 109D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405486800,Level 01 > 109D > Bedroom 2,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Re caulk,,,None,0.00
+La Scala,8491405487390,Level 01 > 109D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405487417,Level 01 > 109D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405487456,Level 01 > 109D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Adjust drawers,,,None,0.00
+La Scala,8491405487481,Level 01 > 109D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405487498,Level 01 > 109D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Incomplete painting,,,None,0.00
+La Scala,8491405487531,Level 01 > 109D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Re caulk,,,None,0.00
+La Scala,8491405487548,Level 01 > 109D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405487740,Level 01 > 101D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405487756,Level 01 > 101D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Incomplete pipe work,,,None,0.00
+La Scala,8491405487794,Level 01 > 101D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405487840,Level 01 > 101D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Towel rail not installed,,,None,0.00
+La Scala,8491405487993,Level 01 > 101D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Door jam, unable to slide",,,None,0.00
+La Scala,8491405488036,Level 01 > 101D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405488071,Level 01 > 101D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Wardrobe hanger rail install,,,None,0.00
+La Scala,8491405488227,Level 01 > 101D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch and paint,,,None,0.00
+La Scala,8491405488259,Level 01 > 101D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Re caulk,,,None,0.00
+La Scala,8491405488282,Level 01 > 101D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405488306,Level 01 > 101D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Install rangehood ,,,None,0.00
+La Scala,8491405488323,Level 01 > 101D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405488561,Level 01 > 102D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Incomplete basin and plumbing works,,,None,0.00
+La Scala,8491405488581,Level 01 > 102D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up paint,,,None,0.00
+La Scala,8491405488605,Level 01 > 102D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405488659,Level 01 > 102D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405488681,Level 01 > 102D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Wall needs 2nd coat,,,None,0.00
+La Scala,8491405488822,Level 01 > 102D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Adjust door
+Scratch to paint
+Patch hole",,,None,0.00
+La Scala,8491405488854,Level 01 > 102D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405488973,Level 01 > 102D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405489019,Level 01 > 102D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405489064,Level 01 > 102D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Re caulk, bigger/wider caulking line to cover chip on panel",,,None,0.00
+La Scala,8491405489082,Level 01 > 102D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Install rangehood,,,None,0.00
+La Scala,8491405489100,Level 01 > 102D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405489123,Level 01 > 102D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405489235,Level 01 > 103D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405489254,Level 01 > 103D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405489277,Level 01 > 103D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Incomplete ,,,None,0.00
+La Scala,8491405489312,Level 01 > 103D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint and touch up,,,None,0.00
+La Scala,8491405489436,Level 01 > 103D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Patch up
+Adjust door for easy sliding",,,None,0.00
+La Scala,8491405489474,Level 01 > 103D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint and touch up,,,None,0.00
+La Scala,8491405489496,Level 01 > 103D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Wardrobe hanger rail install,,,None,0.00
+La Scala,8491405489634,Level 01 > 103D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405489685,Level 01 > 103D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405489721,Level 01 > 103D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Broken rail
+Oven not installed",,,None,0.00
+La Scala,8491405489754,Level 01 > 103D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Reinstall latch
+Rangehood not install",,,None,0.00
+La Scala,8491405489772,Level 01 > 103D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405489914,Level 01 > 104D > Laundry,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Patch hole,,,None,0.00
+La Scala,8491405489943,Level 01 > 104D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405489963,Level 01 > 104D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Incomplete pipe work,,,None,0.00
+La Scala,8491405489992,Level 01 > 104D > Bathroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405490060,Level 01 > 104D,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,"Study room:
+Repaint",,,None,0.00
+La Scala,8491405490137,Level 01 > 104D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Wardrobe hanger rail install,,,None,0.00
+La Scala,8491405490180,Level 01 > 104D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405490202,Level 01 > 104D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Incomplete painting,,,None,0.00
+La Scala,8491405490218,Level 01 > 104D > Bedroom,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Adjust door,,,None,0.00
+La Scala,8491405490470,Level 01 > 104D > Living,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405490501,Level 01 > 104D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405490524,Level 01 > 104D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Install rangehood,,,None,0.00
+La Scala,8491405490551,Level 01 > 104D > Kitchen,16/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),25/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405554651,Level 01 > 105D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405554677,Level 01 > 105D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405554725,Level 01 > 105D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Patch and paint,,,None,0.00
+La Scala,8491405554765,Level 01 > 105D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405554816,Level 01 > 105D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Gap between doors not even,,,None,0.00
+La Scala,8491405554886,Level 01 > 105D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Reinstall touch latch
+Install rangehood",,,None,0.00
+La Scala,8491405554929,Level 01 > 105D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Adjust drawers,,,None,0.00
+La Scala,8491405554962,Level 01 > 105D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405555031,Level 01 > 105D > Laundry,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405555065,Level 01 > 105D > Bathroom,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405555105,Level 01 > 105D > Bathroom,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Incomplete vanity unit,,,None,0.00
+La Scala,8491405555154,Level 01 > 105D > Bathroom,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405555438,Level 01 > 105D > Bedroom 2,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Paint rubs off,,,None,0.00
+La Scala,8491405555513,Level 01 > 105D > Bedroom 2,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Patch and repaint,,,None,0.00
+La Scala,8491405555534,Level 01 > 105D > Bedroom 2,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405555579,Level 01 > 105D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Wardrobe hanger rail install,,,None,0.00
+La Scala,8491405555679,Level 01 > 105D > Living,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up paint,,,None,0.00
+La Scala,8491405555711,Level 01 > 105D > Living,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405555729,Level 01 > 105D > Living,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Scratch to paint,,,None,0.00
+La Scala,8491405555934,Level 01 > 105D > Bedroom 1,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Repaint, touch up",,,None,0.00
+La Scala,8491405555973,Level 01 > 105D > Bedroom 1,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405555993,Level 01 > 105D > Bedroom 1,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405556032,Level 01 > 105D > Bedroom 1,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405556322,Level 01 > 106D > Laundry,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405556398,Level 01 > 106D > Laundry,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Missing internal handle on door, hard to slide door and repaint the scratch ",,,None,0.00
+La Scala,8491405556421,Level 01 > 106D > Bathroom,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Incomplete pipe work,,,None,0.00
+La Scala,8491405556451,Level 01 > 106D > Bathroom,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405556505,Level 01 > 106D > Bathroom,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Adjust vanity drawers, not fully closed and not even gap and flush",,,None,0.00
+La Scala,8491405556531,Level 01 > 106D > Bathroom,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405556833,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Gap between doors not even,,,None,0.00
+La Scala,8491405556878,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need sanding and repaint at bulkhead corners ,,,None,0.00
+La Scala,8491405556902,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Chip on door,,,None,0.00
+La Scala,8491405556942,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405556971,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Adjust gap,,,None,0.00
+La Scala,8491405556998,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Adjust drawers,,,None,0.00
+La Scala,8491405557014,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint ,,,None,0.00
+La Scala,8491405557177,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Missing end panel???
+Paint wall",,,None,0.00
+La Scala,8491405557223,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Repaint bulkhead , bottom of bulkhead",,,None,0.00
+La Scala,8491405557238,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405557285,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Paint rubs off
+Repaint corner",,,None,0.00
+La Scala,8491405557853,Level 01 > 106D > Bedroom 1,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up paint,,,None,0.00
+La Scala,8491405557890,Level 01 > 106D > Bedroom 1,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405558100,Level 01 > 106D > Bedroom 2,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Paint rubs off,,,None,0.00
+La Scala,8491405558152,Level 01 > 106D > Bedroom 2,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up and repaint,,,None,0.00
+La Scala,8491405558166,Level 01 > 106D > Bedroom 2,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405558201,Level 01 > 106D > Bedroom 2,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Unable to shut the door,,,None,0.00
+La Scala,8491405558293,Level 01 > 106D > Living,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Scratch to paint,,,None,0.00
+La Scala,8491405558332,Level 01 > 106D > Living,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405558352,Level 01 > 106D > Living,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Patch and paint skirting,,,None,0.00
+La Scala,8491405558393,Level 01 > 106D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Unable to shut entry door,,,None,0.00
+La Scala,8491405558429,Level 01 > 105D > Living,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Patch and paint skirting,,,None,0.00
+La Scala,8491405558771,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405558787,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405558806,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up scratches,,,None,0.00
+La Scala,8491405558831,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405558863,Level 01 > 107D > Kitchen,17/07/2014,henryt,Incomplete Works,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Reinstall touch latch,,,None,0.00
+La Scala,8491405558877,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Install rangehood,,,None,0.00
+La Scala,8491405558901,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Gap,,,None,0.00
+La Scala,8491405558918,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need sanding at corner,,,None,0.00
+La Scala,8491405558932,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Adjust drawers,,,None,0.00
+La Scala,8491405559012,Level 01 > 107D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Adjust corner door, not fully shut",,,None,0.00
+La Scala,8491405559133,Level 01 > 107D > Laundry,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Door missing internal handle ,,,None,0.00
+La Scala,8491405559178,Level 01 > 107D > Bathroom,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Need caulking, adjust drawers",,,None,0.00
+La Scala,8491405559205,Level 01 > 107D > Bathroom,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405559370,Level 01 > 107D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405559393,Level 01 > 107D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Caulk and paint,,,None,0.00
+La Scala,8491405559413,Level 01 > 107D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405559444,Level 01 > 107D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405559468,Level 01 > 107D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405559484,Level 01 > 107D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405559508,Level 01 > 107D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Door jam at bottom,,,None,0.00
+La Scala,8491405559527,Level 01 > 107D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up paint,,,None,0.00
+La Scala,8491405559553,Level 01 > 107D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405559580,Level 01 > 107D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405559658,Level 01 > 107D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Patch and repaint skirting,,,None,0.00
+La Scala,8491405559678,Level 01 > 107D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405559927,Level 01 > 107D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Repaint 
+Remove glue on skirting",,,None,0.00
+La Scala,8491405559946,Level 01 > 107D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need painting,,,None,0.00
+La Scala,8491405559964,Level 01 > 107D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405559992,Level 01 > 107D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405560253,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405560274,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Re caulk,,,None,0.00
+La Scala,8491405560300,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405560338,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Adjust all kitchen doors to get even gap,,,None,0.00
+La Scala,8491405560375,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Adjust all drawers
+Jam at bulkhead",,,None,0.00
+La Scala,8491405560402,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Patch and repaint corner,,,None,0.00
+La Scala,8491405560425,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint bulkhead,,,None,0.00
+La Scala,8491405560444,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Re caulk,,,None,0.00
+La Scala,8491405560471,Level 01 > 108D > Bathroom,17/07/2014,kreardon,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405560499,Level 01 > 108D > Bathroom,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Need caulking,,,None,0.00
+La Scala,8491405560513,Level 01 > 108D > Bathroom,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Adjust all drawers,,,None,0.00
+La Scala,8491405560529,Level 01 > 108D > Bathroom,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Incomplete pipe work,,,None,0.00
+La Scala,8491405560559,Level 01 > 108D > Laundry,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Missing internal handle on door,,,None,0.00
+La Scala,8491405560580,Level 01 > 108D > Laundry,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405560611,Level 01 > 108D > Kitchen,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up paint on this wall,,,None,0.00
+La Scala,8491405560854,Level 01 > 108D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Clean paint,,,None,0.00
+La Scala,8491405560907,Level 01 > 108D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405560978,Level 01 > 108D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Patch and paint, touch up",,,None,0.00
+La Scala,8491405561056,Level 01 > 108D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405561212,Level 01 > 108D > Bedroom 1,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Scratch to patch and paint,,,None,0.00
+La Scala,8491405561282,Level 01 > 108D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up ,,,None,0.00
+La Scala,8491405561323,Level 01 > 108D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405561424,Level 01 > 108D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Patch and paint skirting
+Touch up",,,None,0.00
+La Scala,8491405561443,Level 01 > 108D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint,,,None,0.00
+La Scala,8491405561473,Level 01 > 108D > Living,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Patch and paint,,,None,0.00
+La Scala,8491405561544,Level 01 > 108D > Bathroom,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Caulking, water dripping in toilet",,,None,0.00
+La Scala,8491405561602,Level 01 > 108D > Laundry,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Repaint, caulk around tile splashback",,,None,0.00
+La Scala,8491405561829,Level 01 > 108D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405561869,Level 01 > 108D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,"Patch crack, touch up",,,None,0.00
+La Scala,8491405561895,Level 01 > 108D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Repaint skirting,,,None,0.00
+La Scala,8491405561913,Level 01 > 108D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Touch up,,,None,0.00
+La Scala,8491405561945,Level 01 > 108D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Remove glue and repaint,,,None,0.00
+La Scala,8491405561978,Level 01 > 108D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Paint rubs off,,,None,0.00
+La Scala,8491405562009,Level 01 > 108D > Bedroom 2,17/07/2014,henryt,Defect,Superintendant,ABD Group (Mick S),26/07/2014,None,Closed,Patch and paint,,,None,0.00
+La Scala,8711411442081,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,Paint rubs off ,,,None,0.00
+La Scala,8711411442189,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,Skirting to wall and filling gap as required,,,None,0.00
+La Scala,8711411442314,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,"Apt 106
+Protrusion plaster",,,None,0.00
+La Scala,8711411442363,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,"Northern hallway
+Clean paint and plaster debris",,,None,0.00
+La Scala,8711411442408,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,"104D
+Irregular paint finish",,,None,0.00
+La Scala,8711411442446,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,"104D and 105D hallway
+Crack joint",,,None,0.00
+La Scala,8711411442500,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,"103D and 104D hallway
+Uneven surface",,,None,0.00
+La Scala,8711411442520,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,103D uneven surface,,,None,0.00
+La Scala,8711411442558,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,"106D
+Protrusion plaster",,,None,0.00
+La Scala,8711411442587,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,"106 and 107D
+Paint sign of rubbing off",,,None,0.00
+La Scala,8711411442644,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,"108D 
+Irregular paint finish ",,,None,0.00
+La Scala,8711411442693,Level 01 > Common Areas > Lobby,23/09/2014,henryt,Defect,Superintendant,ABD Group (Mick S),30/09/2014,None,Open,Protrusion fixing on door,,,None,0.00

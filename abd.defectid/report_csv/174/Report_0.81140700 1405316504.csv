@@ -1,0 +1,962 @@
+Project,Inspection Id,Location,Date Raised,Inspected By,Inspecton Type,Raised By,Issue To,Fixed By Date,Cost Attribute,Status,Description,Note,Cost Impact,Cost Impact Price
+Edgewater,7821400129607,Ground > G.01 > Kitchen,2014-05-15,peterj,Defect,Builder,Easy Painting (John),2014-05-18,None,Closed,Complete painting throughout.,,,None,0.00
+Edgewater,7821400189573,Ground > G.10 > Living,2014-05-16,peterj,Defect,Builder,Easy Painting (John),2014-05-19,None,Closed,Caulk window to wall,,,None,0.00
+Edgewater,7821400189668,Ground > G.10 > Living,2014-05-16,peterj,Defect,Builder,Easy Painting (John),2014-05-19,None,Closed,Rectify skirt to wall,,,None,0.00
+Edgewater,7821403825475,Ground > G.18 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Closed,Re paint on all patch and caulk,,,None,0.00
+Edgewater,7821403825572,Ground > G.18 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Door frame incomplete painting,,,None,0.00
+Edgewater,7821403825906,Ground > G.18 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,chip on sliding door Repaint doors see through,,,None,0.00
+Edgewater,7821403826141,Ground > G.18 > Kitchen,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Water mark  No painting,,,None,0.00
+Edgewater,7821403826281,Ground > G.18 > Kitchen,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Closed,Bulkhead incomplete painting Missing shelf,,,None,0.00
+Edgewater,7821403826454,Ground > G.18 > Balcony,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Incomplete,,,None,0.00
+Edgewater,7821403826990,Ground > G.16 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Closed,"Caulking, Re paint  Missing towel rail",,,None,0.00
+Edgewater,7821403827071,Ground > G.16 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,"Re paint on frame, skirting and door",,,None,0.00
+Edgewater,7821403827159,Ground > G.16 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Clean Hinges ,,,None,0.00
+Edgewater,7821403827420,Ground > G.16 > Bedroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Chip on door,,,None,0.00
+Edgewater,7821403827694,Ground > G.15 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Closed,Gap the hole,,,None,0.00
+Edgewater,7821403827950,Ground > G.15 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,"Clean tile in shower, Incomplete painting",,,None,0.00
+Edgewater,7821403827977,Ground > G.15 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Re paint,,,None,0.00
+Edgewater,7821403828062,Ground > G.15 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Patch and re paint the wall,,,None,0.00
+Edgewater,7821403828184,Ground > G.15 > Bedroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Scratch need re paint Sand and re paint the plaster mark,,,None,0.00
+Edgewater,7821403828321,Ground > G.15 > Kitchen,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Incomplete painting and water mark on wall Dirty mark on wall,,,None,0.00
+Edgewater,7821403828368,Ground > G.15 > Balcony,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Incomplete painting,,,None,0.00
+Edgewater,7821403828480,Ground > G.15 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Chip needs to be re painted,,,None,0.00
+Edgewater,7821403828647,Ground > G.14 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,"Caulking, touch up Paint marks",,,None,0.00
+Edgewater,7821403828744,Ground > G.14 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Re paint and touch up,,,None,0.00
+Edgewater,7821403828853,Ground > G.14 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Patch and re paint Adjust door stopper,,,None,0.00
+Edgewater,7821403829112,Ground > G.14 > Kitchen,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Closed,Screw caps and shelf missing Low sheen paint?????,,,None,0.00
+Edgewater,7821403829494,Ground > G.13 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Incomplete paint to door. Clean and caulk,,,None,0.00
+Edgewater,7821403829686,Ground > G.13 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,"Sanding on architrave and re paint Paint marks on hinges
+Touch up",,,None,0.00
+Edgewater,7821403830006,Ground > G.13 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Patch and re painting,,,None,0.00
+Edgewater,7821403850471,Ground > G.12 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Paint on lock latches Paint marks on wall and door jamb Paint marks on architrave,,,None,0.00
+Edgewater,7821403850539,Ground > G.12 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,"As per photo, paint marks top and bottom. Touch up jamb",,,None,0.00
+Edgewater,7821403850630,Ground > G.12 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,As per photo,,,None,0.00
+Edgewater,7821403850782,Ground > G.12 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,No final coat on door,,,None,0.00
+Edgewater,7821403850826,Ground > G.12 > Living,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Patch and touch up,,,None,0.00
+Edgewater,7821403850858,Ground > G.12 > Kitchen,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,No final coat on bulkhead,,,None,0.00
+Edgewater,7821403851062,Ground > G.11 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,As per photo,,,None,0.00
+Edgewater,7821403851129,Ground > G.11 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Paint on hinge and frame,,,None,0.00
+Edgewater,7821403851218,Ground > G.11 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Closed,Touch up paint.,,,None,0.00
+Edgewater,7821403851290,Ground > G.11 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Closed,Paint on door jamb Peel off tape,,,None,0.00
+Edgewater,7821403851384,Ground > G.11 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Touch up paint,,,None,0.00
+Edgewater,7821403851467,Ground > G.11 > Bedroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Closed,Rise up door stopper,,,None,0.00
+Edgewater,7821403851561,Ground > G.11 > Kitchen,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Watermark Marks on cabinet door  Touch up,,,None,0.00
+Edgewater,7821403851617,Ground > G.11 > Kitchen,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Bulkhead dirty Door not level,,,None,0.00
+Edgewater,7821403851754,Ground > G.10 > Entry/Hall,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Paint marks on wall Paint marks on lock and door Paint missing one coat,,,None,0.00
+Edgewater,7821403851912,Ground > G.10 > Bathroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Paint mark on door frame Touch up paint,,,None,0.00
+Edgewater,7821403852140,Ground > G.10 > Bedroom,2014-06-27,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-06-30,None,Open,Touch up paint on door,,,None,0.00
+Edgewater,7821404780068,Ground > G.02 > Bathroom > Laundry,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,Final coat arcs,,,None,0.00
+Edgewater,7821404785497,Ground > G.18 > Bedroom,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,Needs second coat,,,None,0.00
+Edgewater,7821404785574,Ground > G.18 > Entry/Hall,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,Second coat at joint,,,None,0.00
+Edgewater,7821404785796,Ground > G.18 > Kitchen,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Remove excess paint, sand and touch up",,,None,0.00
+Edgewater,7821404786286,Ground > G.17 > Kitchen,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Re paint bulkhead line, White has spilt over.",,,None,0.00
+Edgewater,7821404786323,Ground > G.17 > Kitchen,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,Re paint skirt,,,None,0.00
+Edgewater,7821404787193,Ground > G.15 > Kitchen,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,White paint bleeding onto vertical,,,None,0.00
+Edgewater,7821404788729,Ground > G.13 > Bathroom,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,Bathroom not second coated,,,None,0.00
+Edgewater,7821404789542,Ground > G.11 > Bathroom,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,Recut ceiling to wall line,,,None,0.00
+Edgewater,7821404790218,Ground > G.10 > Bathroom,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Dr frame second coat, chalky",,,None,0.00
+Edgewater,7821404791317,Ground > G.08 > Kitchen,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,Paint lumps,,,None,0.00
+Edgewater,7821404791827,Ground > G.07 > Bathroom,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,Second coat jamb and arcs,,,None,0.00
+Edgewater,7821404792368,Ground > G.05 > Bathroom,2014-07-08,peterj,Defect,Builder,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Paint jamb, no second coat",,,None,0.00
+Edgewater,8491404260146,Ground > G.09 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Repaint chips on door
+Clean paint marks on hinges and door lock",,,None,0.00
+Edgewater,8491404260604,Ground > G.09 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Repaint the area,,,None,0.00
+Edgewater,8491404261122,Ground > G.09 > Bedroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Re paint,,,None,0.00
+Edgewater,8491404261974,Ground > G.08 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Closed,Paint marks everywhere,,,None,0.00
+Edgewater,8491404262378,Ground > G.08 > Balcony,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Finish painting,,,None,0.00
+Edgewater,8491404262520,Ground > G.08 > Kitchen,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Closed,Paint marks,,,None,0.00
+Edgewater,8491404262633,Ground > G.07 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks on door handle and hinges,,,None,0.00
+Edgewater,8491404262798,Ground > G.07 > Bathroom > Laundry,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404262851,Ground > G.07 > Bathroom > Laundry,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404263118,Ground > G.07 > Kitchen,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Reprint edge from vertical to horizontal. Paint lumps in soffit,,,None,0.00
+Edgewater,8491404263428,Ground > G.07 > Balcony,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open, Commence painting,,,None,0.00
+Edgewater,8491404263776,Ground > G.06 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Re paint and touch up
+Remove paint marks",,,None,0.00
+Edgewater,8491404263908,Ground > G.06 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Re paint
+Remove sticky tape
+Paint marks",,,None,0.00
+Edgewater,8491404263983,Ground > G.06 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404264182,Ground > G.06 > Bedroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Clean paint on glass
+Paint mark on wall",,,None,0.00
+Edgewater,8491404264222,Ground > G.06 > Living,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Fill gap,,,None,0.00
+Edgewater,8491404264317,Ground > G.06 > Kitchen,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Re paint,,,None,0.00
+Edgewater,8491404264540,Ground > G.05 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Paint marks
+Re paint",,,None,0.00
+Edgewater,8491404264961,Ground > G.05 > Kitchen,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks on cab. doors Watermarks on wall,,,None,0.00
+Edgewater,8491404265203,Ground > G.04 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404265376,Ground > G.04 > Bathroom > Laundry,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks everywhere,,,None,0.00
+Edgewater,8491404266106,Ground > G.03 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Remove sticky tape 
+Paint mark on hinges",,,None,0.00
+Edgewater,8491404266205,Ground > G.03 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Closed,Touch up Paint marks,,,None,0.00
+Edgewater,8491404266247,Ground > G.03 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Closed,Touch up Re paint,,,None,0.00
+Edgewater,8491404267008,Ground > G.02 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Closed,Paint marks,,,None,0.00
+Edgewater,8491404267935,Ground > G.01 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Closed,Re paint,,,None,0.00
+Edgewater,8491404268313,Ground > G.01 > Kitchen,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Closed,Re paint,,,None,0.00
+Edgewater,8491404273981,Level 01 > 1.01 > Entry/Hall,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Paint marks on handles, door hinges and lock",,,None,0.00
+Edgewater,8491404274083,Level 01 > 1.01 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Re paint
+Remove paint marks",,,None,0.00
+Edgewater,8491404274510,Level 01 > 1.01 > Kitchen,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up and provide caulking,,,None,0.00
+Edgewater,8491404274937,Level 01 > 1.01 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Re sand the plaster and touch up,,,None,0.00
+Edgewater,8491404275033,Level 01 > 1.01 > Bedroom 2,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks on hinges,,,None,0.00
+Edgewater,8491404275182,Level 01 > 1.01 > Bedroom 2,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Caulking and painting,,,None,0.00
+Edgewater,8491404275284,Level 01 > 1.11 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks on hinges,,,None,0.00
+Edgewater,8491404275334,Level 01 > 1.11 > Laundry,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks on tiles,,,None,0.00
+Edgewater,8491404275463,Level 01 > 1.11 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Sand and touch up,,,None,0.00
+Edgewater,8491404275571,Level 01 > 1.11 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404275622,Level 01 > 1.11 > Bedroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks on hinges and door,,,None,0.00
+Edgewater,8491404275897,Level 01 > 1.11 > Kitchen,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404276080,Level 01 > 1.02 > Entry/Hall,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up paint Remove sticky tape Paint marks,,,None,0.00
+Edgewater,8491404276121,Level 01 > 1.02 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491404276178,Level 01 > 1.02 > Kitchen,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404276474,Level 01 > 1.02 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Re paint Paint marks on mirror,,,None,0.00
+Edgewater,8491404276673,Level 01 > 1.02 > Bedroom 1 > Ensuite,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Patch up holes and caulking to both sides of shower screen frame,,,None,0.00
+Edgewater,8491404276707,Level 01 > 1.02 > Bedroom 1 > Ensuite,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404277142,Level 01 > 1.02 > Bathroom,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Patch up holes,,,None,0.00
+Edgewater,8491404277222,Level 01 > 1.12 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks on hinges,,,None,0.00
+Edgewater,8491404277393,Level 01 > 1.12 > Kitchen,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Fix door hinge
+Provide screw caps
+Missing shelf
+Paint marks on doors",,,None,0.00
+Edgewater,8491404277683,Level 01 > 1.12 > Living,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Patch up,,,None,0.00
+Edgewater,8491404277725,Level 01 > 1.12 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404277918,Level 01 > 1.03 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Remove paint marks on hinges and door,,,None,0.00
+Edgewater,8491404278120,Level 01 > 1.03 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up,,,None,0.00
+Edgewater,8491404278150,Level 01 > 1.03 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Remove marks,,,None,0.00
+Edgewater,8491404278211,Level 01 > 1.03 > Bedroom 1,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404278252,Level 01 > 1.03 > Bedroom 1,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Cracks,,,None,0.00
+Edgewater,8491404278378,Level 01 > 1.03 > Bedroom 1 > Ensuite,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up,,,None,0.00
+Edgewater,8491404278438,Level 01 > 1.03 > Bedroom 1 > Ensuite,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404278513,Level 01 > 1.02 > Living,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up,,,None,0.00
+Edgewater,8491404278631,Level 01 > 1.03 > Living,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up,,,None,0.00
+Edgewater,8491404279028,Level 01 > 1.04 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Re paint and remove paint marks,,,None,0.00
+Edgewater,8491404279248,Level 01 > 1.04 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Touch up paint 
+Remove paint on towel holder",,,None,0.00
+Edgewater,8491404279394,Level 01 > 1.04 > Bedroom 1,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404279510,Level 01 > 1.04 > Living,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Patch hole,,,None,0.00
+Edgewater,8491404279596,Level 01 > 1.04 > Balcony,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Remove sticky tape ,,,None,0.00
+Edgewater,8491404280110,Level 01 > 1.05 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks everywhere,,,None,0.00
+Edgewater,8491404280145,Level 01 > 1.05 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Painting required,,,None,0.00
+Edgewater,8491404280172,Level 01 > 1.05 > Laundry,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404280277,Level 01 > 1.05 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Painting required,,,None,0.00
+Edgewater,8491404280473,Level 01 > 1.05 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,"Touch up
+And remove excessive paint ",,,None,0.00
+Edgewater,8491404280580,Level 01 > 1.05 > Bedroom 1,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-03,None,Open,Cracks Patch up,,,None,0.00
+Edgewater,8491404280710,Level 01 > 1.05 > Bedroom 1 > Ensuite,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-03,None,Open,Remove excessive paint on frame and caulk to both internal and external Patch up holes,,,None,0.00
+Edgewater,8491404280743,Level 01 > 1.05 > Living,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Patch up,,,None,0.00
+Edgewater,8491404280808,Level 01 > 1.05 > Balcony,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491404281209,Level 01 > 1.06 > Entry/Hall,2014-07-02,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,One more coat of paint,,,None,0.00
+Edgewater,8491404281595,Level 01 > 1.15 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up,,,None,0.00
+Edgewater,8491404281634,Level 01 > 1.15 > Entry/Hall,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up,,,None,0.00
+Edgewater,8491404281674,Level 01 > 1.15 > Bathroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Remove excessive paint,,,None,0.00
+Edgewater,8491404281732,Level 01 > 1.15 > Bedroom,2014-07-02,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Touch up and remove paint marks,,,None,0.00
+Edgewater,8491404357322,Level 01 > 1.13 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Extra coat of paint ,,,None,0.00
+Edgewater,8491404357391,Level 01 > 1.13 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Paint mark on hinges,,,None,0.00
+Edgewater,8491404357499,Level 01 > 1.13 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Paint mark on hinges,,,None,0.00
+Edgewater,8491404357609,Level 01 > 1.13 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Re paint architrave,,,None,0.00
+Edgewater,8491404357640,Level 01 > 1.13 > Bedroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Paint marks on hinges,,,None,0.00
+Edgewater,8491404358041,Level 01 > 1.03 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint strip on frame,,,None,0.00
+Edgewater,8491404358083,Level 01 > 1.13 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint strip on frame,,,None,0.00
+Edgewater,8491404358151,Level 01 > 1.02 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint strip on frame,,,None,0.00
+Edgewater,8491404358211,Level 01 > 1.01 > Entry/Hall,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint strip on frame,,,None,0.00
+Edgewater,8491404358315,Level 01 > 1.11 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint strip on frame,,,None,0.00
+Edgewater,8491404358413,Level 01 > 1.05 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint strip on frame,,,None,0.00
+Edgewater,8491404358507,Level 01 > 1.06 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint brush mark on hinges,,,None,0.00
+Edgewater,8491404359123,Level 01 > 1.07 > Entry/Hall,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Fill gap Re paint Clean paint brush mark on hinges,,,None,0.00
+Edgewater,8491404359153,Level 01 > 1.07 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint brush mark on hinges,,,None,0.00
+Edgewater,8491404359583,Level 01 > 1.07 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Touch up,,,None,0.00
+Edgewater,8491404359845,Level 01 > 1.07 > Bedroom 1,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint on hinges,,,None,0.00
+Edgewater,8491404359917,Level 01 > 1.07 > Bedroom 1 > Ensuite,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint brush mark,,,None,0.00
+Edgewater,8491404360015,Level 01 > 1.07 > Bedroom 1,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Touch up,,,None,0.00
+Edgewater,8491404360060,Level 01 > 1.07 > Bedroom 2,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491404360579,Level 01 > 1.16 > Bedroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint brush marks on hinges,,,None,0.00
+Edgewater,8491404361394,Level 01 > 1.08 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint on door and hinges,,,None,0.00
+Edgewater,8491404361436,Level 01 > 1.08 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint on handle and finish painting door,,,None,0.00
+Edgewater,8491404361779,Level 01 > 1.08 > Bathroom,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Touch up,,,None,0.00
+Edgewater,8491404361912,Level 01 > 1.08 > Bedroom 2,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Finish painting skirting
+Remove sticky tape ",,,None,0.00
+Edgewater,8491404361973,Level 01 > 1.08 > Bedroom 1,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint on hinges,,,None,0.00
+Edgewater,8491404361995,Level 01 > 1.08 > Bedroom 1,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Cracks on wall,,,None,0.00
+Edgewater,8491404362062,Level 01 > 1.08 > Bedroom 1,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Remove sticky tape Fix robe door,,,None,0.00
+Edgewater,8491404362085,Level 01 > 1.08 > Bedroom 1,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Patch up,,,None,0.00
+Edgewater,8491404362122,Level 01 > 1.08 > Bedroom 1 > Ensuite,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean excessive paint,,,None,0.00
+Edgewater,8491404362174,Level 01 > 1.08 > Bedroom 1 > Ensuite,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Re paint the area,,,None,0.00
+Edgewater,8491404362565,Level 01 > 1.17 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint marks on hinges and lock,,,None,0.00
+Edgewater,8491404362614,Level 01 > 1.17 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint marks on hinges,,,None,0.00
+Edgewater,8491404362642,Level 01 > 1.17 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Finish painting skirting,,,None,0.00
+Edgewater,8491404362724,Level 01 > 1.17 > Bedroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean white paint brush marks on hinges,,,None,0.00
+Edgewater,8491404362757,Level 01 > 1.17 > Bedroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491404362815,Level 01 > 1.17 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean grey paint on hinges,,,None,0.00
+Edgewater,8491404362849,Level 01 > 1.17 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Remove excessive grey paint on architrave,,,None,0.00
+Edgewater,8491404362915,Level 01 > 1.17 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Re paint the area
+Clean paint on mirror",,,None,0.00
+Edgewater,8491404362942,Level 01 > 1.17 > Bathroom,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-05,None,Open,Patch the crack,,,None,0.00
+Edgewater,8491404363485,Level 01 > 1.09 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Brush marks on hinges,,,None,0.00
+Edgewater,8491404363516,Level 01 > 1.09 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean brush mark and re paint the edge,,,None,0.00
+Edgewater,8491404363716,Level 01 > 1.09 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Re paint and clean paint on mirror,,,None,0.00
+Edgewater,8491404363863,Level 01 > 1.09 > Bedroom 1,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404363890,Level 01 > 1.09 > Bedroom 1,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Crack at corner,,,None,0.00
+Edgewater,8491404363944,Level 01 > 1.09 > Bedroom 1 > Ensuite,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Re paint architrave and the area,,,None,0.00
+Edgewater,8491404364021,Level 01 > 1.09 > Bedroom 1 > Ensuite,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404364691,Level 01 > 1.18 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint brush mark,,,None,0.00
+Edgewater,8491404364849,Level 01 > 1.18 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint on mirror,,,None,0.00
+Edgewater,8491404365204,Level 01 > 1.10 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Paint marks on hinges and lock
+Repaint the door edge",,,None,0.00
+Edgewater,8491404365228,Level 01 > 1.10 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404365389,Level 01 > 1.10 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Re paint
+Clean paint on mirror",,,None,0.00
+Edgewater,8491404365463,Level 01 > 1.10 > Bedroom 1,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Paint marks on hinges,,,None,0.00
+Edgewater,8491404365492,Level 01 > 1.10 > Bedroom 1,2014-07-03,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Crack on wall,,,None,0.00
+Edgewater,8491404365601,Level 01 > 1.10 > Bedroom 1 > Ensuite,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Clean paint on hinges
+Touch up scratch",,,None,0.00
+Edgewater,8491404365652,Level 01 > 1.10 > Bedroom 1 > Ensuite,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,"Re paint 
+Clean paint on mirror",,,None,0.00
+Edgewater,8491404365680,Level 01 > 1.10 > Bedroom 1 > Ensuite,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Finish painting the area,,,None,0.00
+Edgewater,8491404365718,Level 01 > 1.10 > Bedroom 2,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Finish painting the door,,,None,0.00
+Edgewater,8491404365994,Level 01 > 1.19 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Finish painting door edge,,,None,0.00
+Edgewater,8491404366021,Level 01 > 1.19 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404366065,Level 01 > 1.19 > Bedroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404366476,Ground > G.17 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Re paint edge and touch up,,,None,0.00
+Edgewater,8491404366558,Ground > G.17 > Entry/Hall,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404366605,Ground > G.17 > Bathroom,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Re paint ,,,None,0.00
+Edgewater,8491404366642,Ground > G.17 > Bathroom > Laundry,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Clean paint mark,,,None,0.00
+Edgewater,8491404366838,Ground > G.17 > Kitchen,2014-07-03,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-08,None,Open,Re paint,,,None,0.00
+Edgewater,8491404698887,Level 02 > 2.10 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Re paint
+Clean paint on hinges ",,,None,0.00
+Edgewater,8491404698959,Level 02 > 2.10 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up and clean paint on handle,,,None,0.00
+Edgewater,8491404699028,Level 02 > 2.10 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Fill gap and re paint,,,None,0.00
+Edgewater,8491404699074,Level 02 > 2.10 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,sand & re paint,,,None,0.00
+Edgewater,8491404699125,Level 02 > 2.10 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-09,None,Open,"Plaster sanding , fill gap and re paint",,,None,0.00
+Edgewater,8491404699179,Level 02 > 2.10 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,One more coat of paint,,,None,0.00
+Edgewater,8491404699217,Level 02 > 2.10 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch up,,,None,0.00
+Edgewater,8491404699276,Level 02 > 2.10 > Living,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-09,None,Open,Touch up the line,,,None,0.00
+Edgewater,8491404699379,Level 02 > 2.10 > Kitchen,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean drawers,,,None,0.00
+Edgewater,8491404699519,Level 02 > 2.10 > Kitchen,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Fill gap and paint,,,None,0.00
+Edgewater,8491404699623,Level 02 > 2.10 > Living,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,re sand and touch up,,,None,0.00
+Edgewater,8491404699683,Level 02 > 2.10 > Bedroom 2,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Fill gap and touch up,,,None,0.00
+Edgewater,8491404699712,Level 02 > 2.10 > Bedroom 2,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean dirt on wall,,,None,0.00
+Edgewater,8491404699835,Level 02 > 2.10 > Bedroom 2,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Walls need a 2nd coat And brush mark visible,,,None,0.00
+Edgewater,8491404700003,Level 02 > 2.10 > Bedroom 1,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404700084,Level 02 > 2.10 > Bedroom 1,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-09,None,Open,Patch an paint,,,None,0.00
+Edgewater,8491404700167,Level 02 > 2.10 > Bedroom 1,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404700191,Level 02 > 2.10 > Bedroom 1,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Sand and paint,,,None,0.00
+Edgewater,8491404700251,Level 02 > 2.10 > Bedroom 1 > Ensuite,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404700292,Level 02 > 2.10 > Bedroom 1 > Ensuite,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on architrave and skirting,,,None,0.00
+Edgewater,8491404700388,Level 02 > 2.10 > Bedroom 1 > Ensuite,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404700437,Level 02 > 2.10 > Bedroom 1 > Ensuite,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Cover the marks,,,None,0.00
+Edgewater,8491404700463,Level 02 > 2.10 > Bedroom 1 > Ensuite,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on drawers,,,None,0.00
+Edgewater,8491404700601,Level 02 > 2.10 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on mirror Touch up,,,None,0.00
+Edgewater,8491404700659,Level 02 > 2.10 > Living,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Sand and re paint
+Touch up",,,None,0.00
+Edgewater,8491404700869,Level 02 > 2.19 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean white paint strip ,,,None,0.00
+Edgewater,8491404700901,Level 02 > 2.19 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404700933,Level 02 > 2.19 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404700963,Level 02 > 2.19 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch gap and paint,,,None,0.00
+Edgewater,8491404701093,Level 02 > 2.19 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Re sand wall Clean paint on hinges,,,None,0.00
+Edgewater,8491404701162,Level 02 > 2.19 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on mirror,,,None,0.00
+Edgewater,8491404701222,Level 02 > 2.19 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up,,,None,0.00
+Edgewater,8491404701254,Level 02 > 2.19 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint marks,,,None,0.00
+Edgewater,8491404701302,Level 02 > 2.19 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Touch up paint
+Clean paint on hinges",,,None,0.00
+Edgewater,8491404701335,Level 02 > 2.19 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up paint ,,,None,0.00
+Edgewater,8491404701405,Level 02 > 2.19 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Scratch to paint
+Re paint",,,None,0.00
+Edgewater,8491404701488,Level 02 > 2.19 > Kitchen,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Patch and paint
+Clean paint on 2pac",,,None,0.00
+Edgewater,8491404701566,Level 02 > 2.19 > Kitchen,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Clean paint marks
+Provide missing shelf",,,None,0.00
+Edgewater,8491404701689,Level 02 > 2.19 > Living,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404707733,Level 02 > 2.18 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404707766,Level 02 > 2.18 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404707794,Level 02 > 2.18 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404707816,Level 02 > 2.18 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404708092,Level 02 > 2.18 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges ,,,None,0.00
+Edgewater,8491404708413,Level 02 > 2.17 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404708435,Level 02 > 2.17 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404708492,Level 02 > 2.17 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on latch,,,None,0.00
+Edgewater,8491404708514,Level 02 > 2.17 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404708540,Level 02 > 2.17 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491404708637,Level 02 > 2.17 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404708666,Level 02 > 2.17 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint drip ,,,None,0.00
+Edgewater,8491404708693,Level 02 > 2.17 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up,,,None,0.00
+Edgewater,8491404708782,Level 02 > 2.17 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Touch up
+Paint on hinges",,,None,0.00
+Edgewater,8491404708807,Level 02 > 2.17 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404708844,Level 02 > 2.17 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404708894,Level 02 > 2.17 > Living,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404709030,Level 02 > 2.17 > Kitchen,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404709235,Level 02 > 2.16 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Incomplete painting
+Paint on hinges",,,None,0.00
+Edgewater,8491404709257,Level 02 > 2.16 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Re paint,,,None,0.00
+Edgewater,8491404709322,Level 02 > 2.16 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404709387,Level 02 > 2.16 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Needs 2nd coat and touch up,,,None,0.00
+Edgewater,8491404709436,Level 02 > 2.16 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404709759,Level 02 > 2.15,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404709785,Level 02 > 2.15,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Remove paint on hinges,,,None,0.00
+Edgewater,8491404709824,Level 02 > 2.15 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on latch,,,None,0.00
+Edgewater,8491404709879,Level 02 > 2.15 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Need caulking and painting,,,None,0.00
+Edgewater,8491404709909,Level 02 > 2.15,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491404709936,Level 02 > 2.15 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up,,,None,0.00
+Edgewater,8491404709973,Level 02 > 2.15 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404710003,Level 02 > 2.15 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Need re paint ,,,None,0.00
+Edgewater,8491404710282,Level 02 > 2.15 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404710313,Level 02 > 2.15 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404710337,Level 02 > 2.15 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404710464,Level 02 > 2.15 > Living,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404710789,Level 02 > 2.13 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-15,None,Open,Incomplete Clean paint on hinges,,,None,0.00
+Edgewater,8491404710830,Level 02 > 2.13 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on hinges and handl,,,None,0.00
+Edgewater,8491404710857,Level 02 > 2.13 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Re paint,,,None,0.00
+Edgewater,8491404711089,Level 02 > 2.16 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch the gap,,,None,0.00
+Edgewater,8491404711196,Level 02 > 2.13 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up,,,None,0.00
+Edgewater,8491404711233,Level 02 > 2.13 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on architrave and tiles,,,None,0.00
+Edgewater,8491404711266,Level 02 > 2.13 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-09,None,Open,Chip on mirror,,,None,0.00
+Edgewater,8491404711303,Level 02 > 2.13 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404711326,Level 02 > 2.13 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404711359,Level 02 > 2.13 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Need 2nd coat,,,None,0.00
+Edgewater,8491404711388,Level 02 > 2.13 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges ,,,None,0.00
+Edgewater,8491404711415,Level 02 > 2.13 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404711490,Level 02 > 2.13 > Living,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up,,,None,0.00
+Edgewater,8491404711520,Level 02 > 2.13 > Living,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Need sanding and painting,,,None,0.00
+Edgewater,8491404711543,Level 02 > 2.13 > Living,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404711774,Level 02 > 2.15 > Kitchen,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Re paint bulkhead,,,None,0.00
+Edgewater,8491404711836,Level 02 > 2.12 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Incomplete painting
+Clean paint on hinges",,,None,0.00
+Edgewater,8491404711864,Level 02 > 2.12 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Need patch and paint,,,None,0.00
+Edgewater,8491404711905,Level 02 > 2.12 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404712002,Level 02 > 2.12 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404712035,Level 02 > 2.12 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean Paint on frame,,,None,0.00
+Edgewater,8491404712065,Level 02 > 2.12 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Mirror chip,,,None,0.00
+Edgewater,8491404712096,Level 02 > 2.12 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Re paint,,,None,0.00
+Edgewater,8491404712124,Level 02 > 2.12 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404712173,Level 02 > 2.12 > Bedroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404712266,Level 02 > 2.12 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on handle,,,None,0.00
+Edgewater,8491404712317,Level 02 > 2.12 > Living,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Touch up,,,None,0.00
+Edgewater,8491404712407,Level 02 > 2.12 > Kitchen,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404712474,Level 02 > 2.11 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,"Incomplete
+Clean paint on hinges",,,None,0.00
+Edgewater,8491404712537,Level 02 > 2.11 > Entry/Hall,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Re paint door frame Caulk and paint,,,None,0.00
+Edgewater,8491404712569,Level 02 > 2.11 > Entry/Hall,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Paint on hinges,,,None,0.00
+Edgewater,8491404712632,Level 02 > 2.11 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404712714,Level 02 > 2.11 > Bathroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Need re paint,,,None,0.00
+Edgewater,8491404712747,Level 02 > 2.11 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on frame Re paint,,,None,0.00
+Edgewater,8491404712834,Level 02 > 2.11 > Bathroom,2014-07-07,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Mirror chip,,,None,0.00
+Edgewater,8491404712895,Level 02 > 2.11 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404712978,Level 02 > 2.11 > Bedroom,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Re paint,,,None,0.00
+Edgewater,8491404713027,Level 02 > 2.11 > Living,2014-07-07,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-10,None,Open,Re paint,,,None,0.00
+Edgewater,8491404780716,Level 02 > 2.01 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404781032,Level 02 > 2.01 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean stain on hinges,,,None,0.00
+Edgewater,8491404781073,Level 02 > 2.01 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Walls need a 2nd coat,,,None,0.00
+Edgewater,8491404781117,Level 02 > 2.01 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404781156,Level 02 > 2.01 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need re sand and re paint,,,None,0.00
+Edgewater,8491404781199,Level 02 > 2.01 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need 2nd coat,,,None,0.00
+Edgewater,8491404781468,Level 02 > 2.01 > Kitchen,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need re paint,,,None,0.00
+Edgewater,8491404781635,Level 02 > 2.01 > Living,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding and painting,,,None,0.00
+Edgewater,8491404781690,Level 02 > 2.01 > Bedroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"Need 2nd coat and re paint
+Obvious brush mark",,,None,0.00
+Edgewater,8491404781744,Level 02 > 2.01 > Bedroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need 2nd coat,,,None,0.00
+Edgewater,8491404781780,Level 02 > 2.01 > Bedroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark on hinges,,,None,0.00
+Edgewater,8491404781902,Level 02 > 2.01 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint drip ,,,None,0.00
+Edgewater,8491404781971,Level 02 > 2.01 > Laundry,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"Scratch to paint
+Need 2nd coat",,,None,0.00
+Edgewater,8491404782025,Level 02 > 2.01 > Bathroom,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint marks on hinges,,,None,0.00
+Edgewater,8491404782097,Level 02 > 2.01 > Bathroom,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulking and repaint,,,None,0.00
+Edgewater,8491404782138,Level 02 > 2.01 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re paint,,,None,0.00
+Edgewater,8491404782162,Level 02 > 2.01 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re paint,,,None,0.00
+Edgewater,8491404782458,Level 02 > 2.02 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404782495,Level 02 > 2.02 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint marks on hinges,,,None,0.00
+Edgewater,8491404782565,Level 02 > 2.02 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark on hinges,,,None,0.00
+Edgewater,8491404782945,Level 02 > 2.02 > Living,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding and re paint,,,None,0.00
+Edgewater,8491404782967,Level 02 > 2.02 > Living,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need patch up,,,None,0.00
+Edgewater,8491404783023,Level 02 > 2.02 > Living,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404783116,Level 02 > 2.02 > Bedroom 2,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404783171,Level 02 > 2.02 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404783213,Level 02 > 2.02 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark on hinges,,,None,0.00
+Edgewater,8491404783236,Level 02 > 2.02 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404783283,Level 02 > 2.02 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404783330,Level 02 > 2.02 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Cracks on wall,,,None,0.00
+Edgewater,8491404783356,Level 02 > 2.02 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch up holes,,,None,0.00
+Edgewater,8491404783468,Level 02 > 2.02 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404783498,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark on hinges,,,None,0.00
+Edgewater,8491404783525,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark on hinges,,,None,0.00
+Edgewater,8491404783568,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404783601,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark on drawer,,,None,0.00
+Edgewater,8491404783712,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove dirt on paint,,,None,0.00
+Edgewater,8491404783736,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404783767,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint the area,,,None,0.00
+Edgewater,8491404783807,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re paint,,,None,0.00
+Edgewater,8491404783864,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark,,,None,0.00
+Edgewater,8491404783892,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re paint,,,None,0.00
+Edgewater,8491404783926,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"Grey paint drip
+Remove and re paint",,,None,0.00
+Edgewater,8491404783953,Level 02 > 2.02 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark on hinges,,,None,0.00
+Edgewater,8491404784188,Level 02 > 2.02 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks on hinges,,,None,0.00
+Edgewater,8491404784228,Level 02 > 2.02 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks on hinges,,,None,0.00
+Edgewater,8491404784257,Level 02 > 2.02 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re paint,,,None,0.00
+Edgewater,8491404784282,Level 02 > 2.02 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re paint,,,None,0.00
+Edgewater,8491404784305,Level 02 > 2.02 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404784449,Level 02 > 2.02 > Laundry,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks on tiles,,,None,0.00
+Edgewater,8491404788483,Level 02 > 2.03 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404788514,Level 02 > 2.03 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark on hinges,,,None,0.00
+Edgewater,8491404788562,Level 02 > 2.03 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"Sanding, caulking and painting",,,None,0.00
+Edgewater,8491404788597,Level 02 > 2.03 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark on hinges,,,None,0.00
+Edgewater,8491404788627,Level 02 > 2.03 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404788930,Level 02 > 2.03 > Living,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404788967,Level 02 > 2.03 > Living,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Resand and repaint,,,None,0.00
+Edgewater,8491404789002,Level 02 > 2.03 > Living,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re sand and repaint,,,None,0.00
+Edgewater,8491404789029,Level 02 > 2.03 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint ,,,None,0.00
+Edgewater,8491404789061,Level 02 > 2.03 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Walls need a 2nd coat,,,None,0.00
+Edgewater,8491404789222,Level 02 > 2.03 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks on hinges,,,None,0.00
+Edgewater,8491404789249,Level 02 > 2.03 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint drip,,,None,0.00
+Edgewater,8491404789269,Level 02 > 2.03 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404789302,Level 02 > 2.03 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulking,,,None,0.00
+Edgewater,8491404789338,Level 02 > 2.03 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Resand and repaint caulk,,,None,0.00
+Edgewater,8491404789389,Level 02 > 2.03 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulking,,,None,0.00
+Edgewater,8491404789417,Level 02 > 2.03 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulking,,,None,0.00
+Edgewater,8491404789450,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint drip on mirror,,,None,0.00
+Edgewater,8491404789723,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint ,,,None,0.00
+Edgewater,8491404789858,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint on panel,,,None,0.00
+Edgewater,8491404789917,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Shelf not fixed Remove paint mark on shelf,,,None,0.00
+Edgewater,8491404789945,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404789978,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulking and touch up paint,,,None,0.00
+Edgewater,8491404790029,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulking and touch up paint,,,None,0.00
+Edgewater,8491404790065,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint on towel rail and touch up paint on wall,,,None,0.00
+Edgewater,8491404790128,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"Caulking 
+Remove paint marks on hinges",,,None,0.00
+Edgewater,8491404790216,Level 02 > 2.03 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint marks on hinges,,,None,0.00
+Edgewater,8491404790260,Level 02 > 2.03 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re sand and repaint,,,None,0.00
+Edgewater,8491404790295,Level 02 > 2.03 > Bathroom,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404790373,Level 02 > 2.03 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"Patch , sand and paint",,,None,0.00
+Edgewater,8491404790412,Level 02 > 2.03 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark on hinges,,,None,0.00
+Edgewater,8491404790503,Level 02 > 2.03 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"Repaint
+Remove paint mark",,,None,0.00
+Edgewater,8491404790538,Level 02 > 2.03 > Bathroom,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulking And re paint,,,None,0.00
+Edgewater,8491404790599,Level 02 > 2.03 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Dirt on paint,,,None,0.00
+Edgewater,8491404790661,Level 02 > 2.03 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint mark on end panel,,,None,0.00
+Edgewater,8491404790723,Level 02 > 2.03 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark on shelf,,,None,0.00
+Edgewater,8491404790808,Level 02 > 2.04 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404790838,Level 02 > 2.04 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint on hinges,,,None,0.00
+Edgewater,8491404790858,Level 02 > 2.04 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint drip,,,None,0.00
+Edgewater,8491404790878,Level 02 > 2.04 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404790906,Level 02 > 2.04 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404790935,Level 02 > 2.04 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404790967,Level 02 > 2.04 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint mark on hinges,,,None,0.00
+Edgewater,8491404791040,Level 02 > 2.04 > Kitchen,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Sanding and painting need,,,None,0.00
+Edgewater,8491404791282,Level 02 > 2.04 > Living,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404791334,Level 02 > 2.04 > Bedroom 2,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404791381,Level 02 > 2.04 > Bedroom 2,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Walls need  sanding a 2nd coat,,,None,0.00
+Edgewater,8491404791411,Level 02 > 2.04 > Bedroom 2,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404791435,Level 02 > 2.04 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404791466,Level 02 > 2.04 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint marks on hinges,,,None,0.00
+Edgewater,8491404791510,Level 02 > 2.04 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Walls need sandind a 2nd coat,,,None,0.00
+Edgewater,8491404791534,Level 02 > 2.04 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404791563,Level 02 > 2.04 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404791589,Level 02 > 2.04 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Cracks on wall,,,None,0.00
+Edgewater,8491404791627,Level 02 > 2.04 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Skirting under bench need painting,,,None,0.00
+Edgewater,8491404791937,Level 02 > 2.04 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks on hinges and architrave,,,None,0.00
+Edgewater,8491404791990,Level 02 > 2.04 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint marks on architrave,,,None,0.00
+Edgewater,8491404792095,Level 02 > 2.04 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404792141,Level 02 > 2.04 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint mark,,,None,0.00
+Edgewater,8491404792178,Level 02 > 2.04 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint marks on hinges,,,None,0.00
+Edgewater,8491404792213,Level 02 > 2.04 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint drip on mirror,,,None,0.00
+Edgewater,8491404792239,Level 02 > 2.04 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404792267,Level 02 > 2.04 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404792301,Level 02 > 2.04 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks on hinges,,,None,0.00
+Edgewater,8491404792524,Level 02 > 2.05 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404792554,Level 02 > 2.05 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks on hinges,,,None,0.00
+Edgewater,8491404792598,Level 02 > 2.05 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need a 2nd coat of paint,,,None,0.00
+Edgewater,8491404792624,Level 02 > 2.05 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks on hinges,,,None,0.00
+Edgewater,8491404792672,Level 02 > 2.05 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404792703,Level 02 > 2.05 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding and repaint,,,None,0.00
+Edgewater,8491404792865,Level 02 > 2.05 > Kitchen,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding and repaint Door jam need adjust,,,None,0.00
+Edgewater,8491404792987,Level 02 > 2.05 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404793019,Level 02 > 2.05 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404793105,Level 02 > 2.05 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404793130,Level 02 > 2.05 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint on hinges,,,None,0.00
+Edgewater,8491404793159,Level 02 > 2.05 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding and repaint,,,None,0.00
+Edgewater,8491404793192,Level 02 > 2.05 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Cracks,,,None,0.00
+Edgewater,8491404793402,Level 02 > 2.05 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Paint marks on hinges,,,None,0.00
+Edgewater,8491404793421,Level 02 > 2.05 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404793446,Level 02 > 2.05 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404793521,Level 02 > 2.05 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404793545,Level 02 > 2.05 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404793574,Level 02 > 2.05 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404793618,Level 02 > 2.05 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404793634,Level 02 > 2.05 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark,,,None,0.00
+Edgewater,8491404793689,Level 02 > 2.05 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404794355,Level 02 > 2.06 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404794376,Level 02 > 2.06 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404794399,Level 02 > 2.06 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Re paint,,,None,0.00
+Edgewater,8491404794413,Level 02 > 2.06 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404794435,Level 02 > 2.06 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Caulk and repaint,,,None,0.00
+Edgewater,8491404794636,Level 02 > 2.06 > Living,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,sanding paint lump,,,None,0.00
+Edgewater,8491404794675,Level 02 > 2.06 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404794688,Level 02 > 2.06 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404794722,Level 02 > 2.06 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404794814,Level 02 > 2.06 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Missing screws to hinges Remove paint marks,,,None,0.00
+Edgewater,8491404794892,Level 02 > 2.06 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404794918,Level 02 > 2.06 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404794934,Level 02 > 2.06 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Cracks,,,None,0.00
+Edgewater,8491404794957,Level 02 > 2.06 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding rough paint,,,None,0.00
+Edgewater,8491404794978,Level 02 > 2.06 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404795023,Level 02 > 2.06 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404795073,Level 02 > 2.06 > Bedroom 1 > Ensuite,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Missing screws to hinges Remove paint marks,,,None,0.00
+Edgewater,8491404795092,Level 02 > 2.06 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need painting,,,None,0.00
+Edgewater,8491404795182,Level 02 > 2.06 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404795242,Level 02 > 2.06 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"Remove paint marks
+And repaint",,,None,0.00
+Edgewater,8491404795271,Level 02 > 2.06 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint ,,,None,0.00
+Edgewater,8491404795314,Level 02 > 2.06 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint,,,None,0.00
+Edgewater,8491404795356,Level 02 > 2.06 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint on towel rail,,,None,0.00
+Edgewater,8491404796440,Level 02 > 2.07 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404796459,Level 02 > 2.07 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404796505,Level 02 > 2.07 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404796574,Level 02 > 2.07 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404796588,Level 02 > 2.07 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404796774,Level 02 > 2.07 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint and touch up,,,None,0.00
+Edgewater,8491404796796,Level 02 > 2.07 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding and repaint,,,None,0.00
+Edgewater,8491404796827,Level 02 > 2.07 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding,,,None,0.00
+Edgewater,8491404796897,Level 02 > 2.07 > Living,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding and repaint,,,None,0.00
+Edgewater,8491404796938,Level 02 > 2.07 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404796964,Level 02 > 2.07 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks ,,,None,0.00
+Edgewater,8491404796982,Level 02 > 2.07 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404797012,Level 02 > 2.07 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Cracks,,,None,0.00
+Edgewater,8491404797041,Level 02 > 2.07 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404797060,Level 02 > 2.07 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,sand and paint,,,None,0.00
+Edgewater,8491404797083,Level 02 > 2.07 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need 2nd coat,,,None,0.00
+Edgewater,8491404797105,Level 02 > 2.07 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404797134,Level 02 > 2.07 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Need sanding,,,None,0.00
+Edgewater,8491404797162,Level 02 > 2.07 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Scratches to paint,,,None,0.00
+Edgewater,8491404797192,Level 02 > 2.07 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404797225,Level 02 > 2.07 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean paint marks,,,None,0.00
+Edgewater,8491404797279,Level 02 > 2.07 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404797327,Level 02 > 2.07 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404797349,Level 02 > 2.07 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404797385,Level 02 > 2.07 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404797450,Level 02 > 2.07 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404797475,Level 02 > 2.07 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404798448,Level 02 > 2.08 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404798480,Level 02 > 2.08 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark,,,None,0.00
+Edgewater,8491404798498,Level 02 > 2.08 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint ,,,None,0.00
+Edgewater,8491404798641,Level 02 > 2.08 > Living,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Sand and touch up,,,None,0.00
+Edgewater,8491404798678,Level 02 > 2.08 > Living,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,"
+Sand and touch up",,,None,0.00
+Edgewater,8491404798701,Level 02 > 2.08 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404798729,Level 02 > 2.08 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404798750,Level 02 > 2.08 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404798797,Level 02 > 2.08 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404798886,Level 02 > 2.08 > Bedroom 1,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404798923,Level 02 > 2.08 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404798945,Level 02 > 2.08 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404799007,Level 02 > 2.08 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Finish painting,,,None,0.00
+Edgewater,8491404799058,Level 02 > 2.08 > Bedroom 1 > Ensuite,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404799098,Level 02 > 2.08 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404799115,Level 02 > 2.08 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404799140,Level 02 > 2.08 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404799161,Level 02 > 2.08 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404799189,Level 02 > 2.08 > Bathroom,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404799780,Level 02 > 2.09 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Door incomplete painting Remove paint marks on hinges,,,None,0.00
+Edgewater,8491404799805,Level 02 > 2.09 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Clean up and paint,,,None,0.00
+Edgewater,8491404799835,Level 02 > 2.09 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404799893,Level 02 > 2.09 > Entry/Hall,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Cracks Patch and paint,,,None,0.00
+Edgewater,8491404799917,Level 02 > 2.09 > Entry/Hall,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404800018,Level 02 > 2.09 > Living,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Sand and touch up paint mark,,,None,0.00
+Edgewater,8491404800044,Level 02 > 2.09 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint,,,None,0.00
+Edgewater,8491404800074,Level 02 > 2.09 > Bedroom 2,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404800094,Level 02 > 2.09 > Bedroom 2,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Crack,,,None,0.00
+Edgewater,8491404800132,Level 02 > 2.09 > Bedroom 1,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Cracks,,,None,0.00
+Edgewater,8491404800180,Level 02 > 2.09 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404800316,Level 02 > 2.09 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint ,,,None,0.00
+Edgewater,8491404800355,Level 02 > 2.09 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Finish painting,,,None,0.00
+Edgewater,8491404800382,Level 02 > 2.09 > Bedroom 1 > Ensuite,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404800409,Level 02 > 2.09 > Bedroom 1 > Ensuite,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Repaint ,,,None,0.00
+Edgewater,8491404800441,Level 02 > 2.09 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up paint ,,,None,0.00
+Edgewater,8491404800468,Level 02 > 2.09 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark,,,None,0.00
+Edgewater,8491404800484,Level 02 > 2.09 > Bathroom,2014-07-08,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Remove paint mark,,,None,0.00
+Edgewater,8491404800504,Level 02 > 2.09 > Bathroom,2014-07-08,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-11,None,Open,Touch up,,,None,0.00
+Edgewater,8491404867332,Level 03 > 3.10 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete Remove paint mark on hinges,,,None,0.00
+Edgewater,8491404867417,Level 03 > 3.10 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulking to top frame And repaint the frame,,,None,0.00
+Edgewater,8491404867438,Level 03 > 3.10 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404867462,Level 03 > 3.10 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulk and repaint,,,None,0.00
+Edgewater,8491404867484,Level 03 > 3.10 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Remove paint on handle,,,None,0.00
+Edgewater,8491404867638,Level 03 > 3.10 > Kitchen,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404867990,Level 03 > 3.10 > Living,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need re sand,,,None,0.00
+Edgewater,8491404868314,Level 03 > 3.10 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404868419,Level 03 > 3.10 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint and patch and paint,,,None,0.00
+Edgewater,8491404868473,Level 03 > 3.10 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Need sanding,,,None,0.00
+Edgewater,8491404868599,Level 03 > 3.10 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up scratch and remove paint marks on the hinges,,,None,0.00
+Edgewater,8491404868630,Level 03 > 3.10 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulk,,,None,0.00
+Edgewater,8491404868732,Level 03 > 3.10 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Need re sanding and caulking,,,None,0.00
+Edgewater,8491404868780,Level 03 > 3.10 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and repaint skirting,,,None,0.00
+Edgewater,8491404868937,Level 03 > 3.10 > Bedroom 1 > Ensuite,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404868998,Level 03 > 3.10 > Bedroom 1 > Ensuite,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Finish the painting,,,None,0.00
+Edgewater,8491404869164,Level 03 > 3.10 > Bathroom,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Remove paint marks on all hinges,,,None,0.00
+Edgewater,8491404869182,Level 03 > 3.10 > Bathroom,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulking,,,None,0.00
+Edgewater,8491404869203,Level 03 > 3.10 > Bathroom,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404869224,Level 03 > 3.10 > Bathroom,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404878907,Level 03 > 3.04,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,"Remove all paint marks on door hinges, cabinets, doors",,,None,0.00
+Edgewater,8491404878959,Level 03 > 3.04 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete Paint marks,,,None,0.00
+Edgewater,8491404878991,Level 03 > 3.04 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404879006,Level 03 > 3.04 > Entry/Hall,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulking,,,None,0.00
+Edgewater,8491404879054,Level 03 > 3.04 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up Paint marks,,,None,0.00
+Edgewater,8491404879765,Level 03 > 3.04 > Kitchen,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-16,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404879836,Level 03 > 3.04 > Living,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404879912,Level 03 > 3.04 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404879966,Level 03 > 3.04 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint skirting,,,None,0.00
+Edgewater,8491404879998,Level 03 > 3.04 > Bedroom 2,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Re sand and repaint,,,None,0.00
+Edgewater,8491404880048,Level 03 > 3.04 > Bedroom 2,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulking,,,None,0.00
+Edgewater,8491404880106,Level 03 > 3.04 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404880123,Level 03 > 3.04 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404880268,Level 03 > 3.04 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint skirting,,,None,0.00
+Edgewater,8491404880339,Level 03 > 3.04 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404880366,Level 03 > 3.04 > Bedroom 1 > Ensuite,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete,,,None,0.00
+Edgewater,8491404880461,Level 03 > 3.04 > Bedroom 1 > Ensuite,2014-07-09,henryt,Issue,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404880483,Level 03 > 3.04 > Bedroom 1 > Ensuite,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404880664,Level 03 > 3.04 > Laundry,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-09,None,Open,"GPO, Comms, Lightswitch covers install",,,None,0.00
+Edgewater,8491404880835,Level 03 > 3.03,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,"Remove all paint marks on door hinges, cabinets, walls and doors",,,None,0.00
+Edgewater,8491404880897,Level 03 > 3.03 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete Paint marks,,,None,0.00
+Edgewater,8491404880923,Level 03 > 3.03 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404880952,Level 03 > 3.03 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulk and repaint,,,None,0.00
+Edgewater,8491404881022,Level 03 > 3.03 > Laundry,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404881054,Level 03 > 3.03 > Kitchen,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404881394,Level 03 > 3.03 > Kitchen,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404881424,Level 03 > 3.03 > Living,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404881545,Level 03 > 3.03 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint skirting,,,None,0.00
+Edgewater,8491404881571,Level 03 > 3.03 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Sand and paint,,,None,0.00
+Edgewater,8491404881587,Level 03 > 3.03 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404881603,Level 03 > 3.03 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404881657,Level 03 > 3.03 > Living,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint skirting,,,None,0.00
+Edgewater,8491404881712,Level 03 > 3.03 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404881740,Level 03 > 3.03 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Cracks,,,None,0.00
+Edgewater,8491404881758,Level 03 > 3.03 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404881830,Level 03 > 3.03 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint skirting,,,None,0.00
+Edgewater,8491404881937,Level 03 > 3.03 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404881984,Level 03 > 3.03 > Bedroom 1 > Ensuite,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404882027,Level 03 > 3.03 > Bedroom 1 > Ensuite,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404882102,Level 03 > 3.03 > Bedroom 1 > Ensuite,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404882175,Level 03 > 3.03 > Bathroom,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint and touch up,,,None,0.00
+Edgewater,8491404882190,Level 03 > 3.03 > Bathroom,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404882213,Level 03 > 3.03 > Bathroom,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404882238,Level 03 > 3.03 > Bathroom,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404882284,Level 03 > 3.03 > Bathroom,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks Mirror chip,,,None,0.00
+Edgewater,8491404882342,Level 03 > 3.03 > Bathroom,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,"Re caulk 
+Touch up paint",,,None,0.00
+Edgewater,8491404882435,Level 03 > 3.03 > Bathroom,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404883584,Level 03 > 3.09 > Entry/Hall,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete Paint marks,,,None,0.00
+Edgewater,8491404883617,Level 03 > 3.09 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404883660,Level 03 > 3.09 > Entry/Hall,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404883676,Level 03 > 3.09 > Entry/Hall,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404883702,Level 03 > 3.09 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404883923,Level 03 > 3.09 > Kitchen,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete caulking,,,None,0.00
+Edgewater,8491404884004,Level 03 > 3.09 > Bedroom 2,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete Painting,,,None,0.00
+Edgewater,8491404884068,Level 03 > 3.09 > Bedroom 2,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Need sanding and repaint,,,None,0.00
+Edgewater,8491404884099,Level 03 > 3.09 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Fill gap and repaint,,,None,0.00
+Edgewater,8491404884134,Level 03 > 3.09 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404884153,Level 03 > 3.09 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404884201,Level 03 > 3.09 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Cracks,,,None,0.00
+Edgewater,8491404884290,Level 03 > 3.09 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404884322,Level 03 > 3.09 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404884353,Level 03 > 3.09 > Bedroom 1 > Ensuite,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404884376,Level 03 > 3.09 > Bedroom 1 > Ensuite,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404884470,Level 03 > 3.09 > Bedroom 1,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404884500,Level 03 > 3.09 > Bathroom,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404884528,Level 03 > 3.09 > Bathroom,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulking,,,None,0.00
+Edgewater,8491404884719,Level 03 > 3.09,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,"Remove paint marks on door hinges, doors,cabinets and air con",,,None,0.00
+Edgewater,8491404884783,Level 03 > 3.08,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,"Remove all paint marks on door hinges, doors, cabinets and air con",,,None,0.00
+Edgewater,8491404884832,Level 03 > 3.08 > Entry/Hall,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete painting Paint marks,,,None,0.00
+Edgewater,8491404884875,Level 03 > 3.08 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404884903,Level 03 > 3.08 > Entry/Hall,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404884936,Level 03 > 3.08 > Entry/Hall,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404885166,Level 03 > 3.08 > Living,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404885221,Level 03 > 3.08 > Bedroom 2,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Re caulk,,,None,0.00
+Edgewater,8491404885276,Level 03 > 3.08 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404885300,Level 03 > 3.08 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404885366,Level 03 > 3.08 > Bedroom 2,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Caulk and paint the lines,,,None,0.00
+Edgewater,8491404885424,Level 03 > 3.08 > Bedroom 2,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and paint skirting,,,None,0.00
+Edgewater,8491404885459,Level 03 > 3.08 > Living,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404885488,Level 03 > 3.08 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404885521,Level 03 > 3.08 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Cracks,,,None,0.00
+Edgewater,8491404885568,Level 03 > 3.08 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint drip,,,None,0.00
+Edgewater,8491404885591,Level 03 > 3.08 > Bedroom 1,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404885678,Level 03 > 3.08 > Bedroom 1,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404885720,Level 03 > 3.08 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,"GPO, Comms, Lightswitch covers install",,,None,0.00
+Edgewater,8491404885750,Level 03 > 3.08 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,paint wall,,,None,0.00
+Edgewater,8491404885822,Level 03 > 3.08 > Bedroom 1,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Wall crooked,,,None,0.00
+Edgewater,8491404885850,Level 03 > 3.08 > Bedroom 1 > Ensuite,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404885872,Level 03 > 3.08 > Bedroom 1 > Ensuite,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404886007,Level 03 > 3.08 > Bedroom 1 > Ensuite,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404886031,Level 03 > 3.08 > Bathroom,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Repaint,,,None,0.00
+Edgewater,8491404886087,Level 03 > 3.08 > Bathroom,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404886127,Level 03 > 3.08 > Bathroom,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404886282,Level 03 > 3.02,2014-07-09,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,"Remove all paint marks on door hinges, doors, cabinets",,,None,0.00
+Edgewater,8491404886520,Level 03 > 3.02,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-09,None,Open,"GPO, Comms, Lightswitch covers install",,,None,0.00
+Edgewater,8491404886575,Level 03 > 3.02 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete painting Paint marks,,,None,0.00
+Edgewater,8491404886636,Level 03 > 3.02 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Cracks Repaint,,,None,0.00
+Edgewater,8491404886660,Level 03 > 3.02 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404886679,Level 03 > 3.02 > Entry/Hall,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Cover,,,None,0.00
+Edgewater,8491404886720,Level 03 > 3.02 > Laundry,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,"GPO, Comms, Lightswitch covers install",,,None,0.00
+Edgewater,8491404886793,Level 03 > 3.02 > Kitchen,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Fill gap Remove paint marks,,,None,0.00
+Edgewater,8491404886814,Level 03 > 3.02 > Kitchen,2014-07-09,peterj,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Cover,,,None,0.00
+Edgewater,8491404887017,Level 03 > 3.02 > Living,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Covers,,,None,0.00
+Edgewater,8491404887139,Level 03 > 3.02 > Bedroom 2,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Covers,,,None,0.00
+Edgewater,8491404887200,Level 03 > 3.02 > Bedroom 2,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Covers,,,None,0.00
+Edgewater,8491404887258,Level 03 > 3.02 > Bedroom 2,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Re caulk and paint the lines,,,None,0.00
+Edgewater,8491404887290,Level 03 > 3.02 > Bedroom 2,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Touch up,,,None,0.00
+Edgewater,8491404887345,Level 03 > 3.02 > Bedroom 1,2014-07-09,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404887385,Level 03 > 3.02 > Bedroom 1,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Covers,,,None,0.00
+Edgewater,8491404887401,Level 03 > 3.02 > Bedroom 1,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Covers,,,None,0.00
+Edgewater,8491404887526,Level 03 > 3.02 > Bedroom 1,2014-07-09,peterj,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-12,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404948905,Level 03 > 3.02 > Bedroom 1,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint drip,,,None,0.00
+Edgewater,8491404948965,Level 03 > 3.02 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404949032,Level 03 > 3.02 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404949112,Level 03 > 3.02 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404949139,Level 03 > 3.02 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404949256,Level 03 > 3.02 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404949278,Level 03 > 3.02 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Re caulk,,,None,0.00
+Edgewater,8491404949327,Level 03 > 3.02 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404949467,Level 03 > 3.02 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404949482,Level 03 > 3.02 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404949524,Level 03 > 3.02 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404949544,Level 03 > 3.02 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404949592,Level 03 > 3.02 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Paint marks
+Repaint and caulk",,,None,0.00
+Edgewater,8491404949645,Level 03 > 3.01,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on door hinges, cabinets, doors and windows",,,None,0.00
+Edgewater,8491404949699,Level 03 > 3.01 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove paint marks
+Incomplete painting ",,,None,0.00
+Edgewater,8491404949756,Level 03 > 3.01 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint and caulk,,,None,0.00
+Edgewater,8491404949790,Level 03 > 3.01 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404950447,Level 03 > 3.01 > Living,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Skirting need 2nd coat of paint,,,None,0.00
+Edgewater,8491404950590,Level 03 > 3.01 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404950799,Level 03 > 3.01 > Laundry,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need 2nd coat of paint,,,None,0.00
+Edgewater,8491404950854,Level 03 > 3.01 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404950936,Level 03 > 3.01 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Remove all paint marks on towel rail,,,None,0.00
+Edgewater,8491404950958,Level 03 > 3.01 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Touch up,,,None,0.00
+Edgewater,8491404950987,Level 03 > 3.01 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404951011,Level 03 > 3.01 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Missing skirting tile,,,None,0.00
+Edgewater,8491404951050,Level 03 > 3.01 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Watermark
+Need repaint and caulking",,,None,0.00
+Edgewater,8491404953726,Level 03 > 3.05 > Entry/Hall,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete painting door
+Paint mark on hinges",,,None,0.00
+Edgewater,8491404953774,Level 03 > 3.05 > Entry/Hall,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404953799,Level 03 > 3.05 > Entry/Hall,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404953838,Level 03 > 3.05 > Entry/Hall,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Touch up paint and cover to gpo,,,None,0.00
+Edgewater,8491404953892,Level 03 > 3.05 > Entry/Hall,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need sanding and paint,,,None,0.00
+Edgewater,8491404953967,Level 03 > 3.05 > Entry/Hall,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404954009,Level 03 > 3.05 > Kitchen,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404954155,Level 03 > 3.05 > Kitchen,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404954273,Level 03 > 3.05 > Kitchen,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404954339,Level 03 > 3.05 > Living,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404954485,Level 03 > 3.05 > Bedroom 2,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404954562,Level 03 > 3.05 > Bedroom 2,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and repaint wardrobe,,,None,0.00
+Edgewater,8491404954595,Level 03 > 3.05 > Bedroom 1,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404954715,Level 03 > 3.05 > Bedroom 1,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint skirting,,,None,0.00
+Edgewater,8491404954752,Level 03 > 3.05 > Bedroom 1,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Sand and paint,,,None,0.00
+Edgewater,8491404954780,Level 03 > 3.05 > Bedroom 1,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Caulking 
+Touch up paint",,,None,0.00
+Edgewater,8491404954810,Level 03 > 3.05 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404954836,Level 03 > 3.05 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Fix drawer
+Paint mark",,,None,0.00
+Edgewater,8491404954862,Level 03 > 3.05 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404954928,Level 03 > 3.05 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404954974,Level 03 > 3.05 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint and caulk,,,None,0.00
+Edgewater,8491404955468,Level 03 > 3.05 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Missing screws to hinges
+Paint marks",,,None,0.00
+Edgewater,8491404955511,Level 03 > 3.05 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Touch up paint 
+Caulk to the line",,,None,0.00
+Edgewater,8491404955560,Level 03 > 3.05 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404955605,Level 03 > 3.05 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404955628,Level 03 > 3.05 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404955735,Level 03 > 3.05,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors,hinges , mirrors and cabinets",,,None,0.00
+Edgewater,8491404955792,Level 03 > 3.06,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, cabinets, mirrors and windows ",,,None,0.00
+Edgewater,8491404957245,Level 03 > 3.06 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete painting
+Paint marks",,,None,0.00
+Edgewater,8491404957277,Level 03 > 3.06 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404957328,Level 03 > 3.06 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need 2nd coat of paint,,,None,0.00
+Edgewater,8491404957345,Level 03 > 3.06 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404957502,Level 03 > 3.06 > Living,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404957579,Level 03 > 3.06 > Living,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404957637,Level 03 > 3.06 > Living,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404957650,Level 03 > 3.06 > Living,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404957690,Level 03 > 3.06 > Bedroom 2,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and repaint,,,None,0.00
+Edgewater,8491404957761,Level 03 > 3.06 > Bedroom 2,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404957788,Level 03 > 3.06 > Bedroom 2,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Adjust doors,,,None,0.00
+Edgewater,8491404958360,Level 03 > 3.06 > Bedroom 1,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Crack
+Need sanding and repaint",,,None,0.00
+Edgewater,8491404958407,Level 03 > 3.06 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Cracks
+Need repaint",,,None,0.00
+Edgewater,8491404958520,Level 03 > 3.06 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need touch up,,,None,0.00
+Edgewater,8491404958550,Level 03 > 3.06 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Paint marks
+Scratch to paint",,,None,0.00
+Edgewater,8491404958587,Level 03 > 3.06 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and repaint,,,None,0.00
+Edgewater,8491404958621,Level 03 > 3.06 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint skirting,,,None,0.00
+Edgewater,8491404958762,Level 03 > 3.06 > Bedroom 1,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404958881,Level 03 > 3.06 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404958903,Level 03 > 3.06 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404958970,Level 03 > 3.06 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404958992,Level 03 > 3.06 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404959038,Level 03 > 3.06 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404959091,Level 03 > 3.06 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Paint marks remove
+Patch hole",,,None,0.00
+Edgewater,8491404959160,Level 03 > 3.06 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404959185,Level 03 > 3.06 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Clean paint marks,,,None,0.00
+Edgewater,8491404959219,Level 03 > 3.06 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404959260,Level 03 > 3.06 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404959294,Level 03 > 3.06 > Bathroom,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulking,,,None,0.00
+Edgewater,8491404959409,Level 03 > 3.07,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, cabinets, mirror and windows",,,None,0.00
+Edgewater,8491404961726,Level 03 > 3.07 > Entry/Hall,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete
+Door holder is not working
+Paint marks on. Hinges",,,None,0.00
+Edgewater,8491404961773,Level 03 > 3.07 > Entry/Hall,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Frame incomplete painting,,,None,0.00
+Edgewater,8491404961790,Level 03 > 3.07 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint mark,,,None,0.00
+Edgewater,8491404961817,Level 03 > 3.07 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404961936,Level 03 > 3.07 > Kitchen,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404962304,Level 03 > 3.07 > Bedroom 2,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Wall needs 2nd coat,,,None,0.00
+Edgewater,8491404962404,Level 03 > 3.07 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404962428,Level 03 > 3.07 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404962501,Level 03 > 3.07 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Cover to Gpo
+Scratch to paint",,,None,0.00
+Edgewater,8491404962563,Level 03 > 3.07 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404962635,Level 03 > 3.07 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint skirting,,,None,0.00
+Edgewater,8491404962809,Level 03 > 3.07 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Cover to Gpo
+Patch and paint",,,None,0.00
+Edgewater,8491404962846,Level 03 > 3.07 > Bedroom 1,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch up and paint,,,None,0.00
+Edgewater,8491404963236,Level 03 > 3.07 > Bedroom 1 > Ensuite,2014-07-10,henryt,Incomplete Works,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491404963255,Level 03 > 3.07 > Bedroom 1 > Ensuite,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404963370,Level 03 > 3.07 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404963842,Level 03 > 3.19,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, mirrors, cabinets...",,,None,0.00
+Edgewater,8491404963898,Level 03 > 3.19 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete
+Paint marks on hinges",,,None,0.00
+Edgewater,8491404963964,Level 03 > 3.19 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Repaint frame
+Caulking",,,None,0.00
+Edgewater,8491404964010,Level 03 > 3.19 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404964028,Level 03 > 3.19 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint drip,,,None,0.00
+Edgewater,8491404964063,Level 03 > 3.19 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404964101,Level 03 > 3.19 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404964115,Level 03 > 3.19 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404964156,Level 03 > 3.19 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Remove any paint mark and caulking,,,None,0.00
+Edgewater,8491404964221,Level 03 > 3.19 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Paint marks
+Repaint ",,,None,0.00
+Edgewater,8491404964247,Level 03 > 3.19 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404964299,Level 03 > 3.19 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404964466,Level 03 > 3.19 > Kitchen,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need 2nd coat,,,None,0.00
+Edgewater,8491404964610,Level 03 > 3.19 > Kitchen,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Caulking to lines
+Remove sticky tape",,,None,0.00
+Edgewater,8491404964726,Level 03 > 3.18,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, cabinet, mirrors and windows",,,None,0.00
+Edgewater,8491404966479,Level 03 > 3.18 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete
+Remove paint marks",,,None,0.00
+Edgewater,8491404966511,Level 03 > 3.18 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint frame,,,None,0.00
+Edgewater,8491404966557,Level 03 > 3.18 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404966592,Level 03 > 3.18 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Touch up
+Remove sticky tape",,,None,0.00
+Edgewater,8491404966682,Level 03 > 3.18 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Touch up paint,,,None,0.00
+Edgewater,8491404966750,Level 03 > 3.18 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Scratch to paint
+Paint marks removal",,,None,0.00
+Edgewater,8491404966833,Level 03 > 3.18 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404967696,Level 03 > 3.17,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, cabinets, mirror and windows",,,None,0.00
+Edgewater,8491404967731,Level 03 > 3.17 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete
+Paint marks on hinges",,,None,0.00
+Edgewater,8491404967760,Level 03 > 3.17 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404967817,Level 03 > 3.18 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404967833,Level 03 > 3.18 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to paint,,,None,0.00
+Edgewater,8491404967856,Level 03 > 3.18 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404967903,Level 03 > 3.18 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulking,,,None,0.00
+Edgewater,8491404967928,Level 03 > 3.18 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need 2nd coat,,,None,0.00
+Edgewater,8491404967960,Level 03 > 3.18 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404968028,Level 03 > 3.17 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Touch up this wall,,,None,0.00
+Edgewater,8491404968099,Level 03 > 3.17 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need 2nd coat,,,None,0.00
+Edgewater,8491404968131,Level 03 > 3.17 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404968144,Level 03 > 3.17 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404968180,Level 03 > 3.17 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Remove paint marks,,,None,0.00
+Edgewater,8491404968272,Level 03 > 3.17 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404968304,Level 03 > 3.17 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404968345,Level 03 > 3.17 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Touch up,,,None,0.00
+Edgewater,8491404968366,Level 03 > 3.17 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404968411,Level 03 > 3.17 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Adjust doors
+Remove sticky tape",,,None,0.00
+Edgewater,8491404968482,Level 03 > 3.17 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Resand and repaint,,,None,0.00
+Edgewater,8491404968685,Level 03 > 3.16,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, cabinets, mirrors and windows",,,None,0.00
+Edgewater,8491404968722,Level 03 > 3.16 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete 
+Paint marks on hinges",,,None,0.00
+Edgewater,8491404968765,Level 03 > 3.16 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint the frame and caulking to the top,,,None,0.00
+Edgewater,8491404968820,Level 03 > 3.16 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404969055,Level 03 > 3.16 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404969076,Level 03 > 3.16 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404969175,Level 03 > 3.16 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404969237,Level 03 > 3.16 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,2nd coat,,,None,0.00
+Edgewater,8491404969258,Level 03 > 3.16 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404969342,Level 03 > 3.16 > Kitchen,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Re caulk and repaint
+Touch up 2pac",,,None,0.00
+Edgewater,8491404969583,Level 03 > 3.15,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, cabinets , mirrors and windows",,,None,0.00
+Edgewater,8491404969620,Level 03 > 3.15 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404969650,Level 03 > 3.15 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404969697,Level 03 > 3.15 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404969736,Level 03 > 3.15 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint frame,,,None,0.00
+Edgewater,8491404969874,Level 03 > 3.15 > Living,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404969908,Level 03 > 3.15 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491404969939,Level 03 > 3.15 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404969976,Level 03 > 3.15 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint,,,None,0.00
+Edgewater,8491404970074,Level 03 > 3.15 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404970153,Level 03 > 3.15 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404970232,Level 03 > 3.15 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Scratch to paint
+Cover to Gpo",,,None,0.00
+Edgewater,8491404970389,Level 03 > 3.15 > Living,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Patch and paint,,,None,0.00
+Edgewater,8491404970418,Level 03 > 3.15 > Kitchen,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Sand and paint,,,None,0.00
+Edgewater,8491404971154,Level 03 > 3.13,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, mirror, cabinets and windows",,,None,0.00
+Edgewater,8491404971192,Level 03 > 3.13 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete
+Paint marks",,,None,0.00
+Edgewater,8491404971252,Level 03 > 3.13 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Repaint frame,,,None,0.00
+Edgewater,8491404971649,Level 03 > 3.13 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Patch up hole, remove sticky tape ",,,None,0.00
+Edgewater,8491404972333,Level 03 > 3.12,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, cabinets, mirrors, and windows",,,None,0.00
+Edgewater,8491404972370,Level 03 > 3.12 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Incomplete
+Paint marks on hinges",,,None,0.00
+Edgewater,8491404972410,Level 03 > 3.12 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Repaint frame, caulk to top",,,None,0.00
+Edgewater,8491404972444,Level 03 > 3.12 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulk and paint,,,None,0.00
+Edgewater,8491404972775,Level 03 > 3.12 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Need 2nd coat,,,None,0.00
+Edgewater,8491404972808,Level 03 > 3.12 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404972823,Level 03 > 3.12 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Scratch to touch up,,,None,0.00
+Edgewater,8491404972854,Level 03 > 3.12 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks ,,,None,0.00
+Edgewater,8491404972886,Level 03 > 3.12 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Caulking,,,None,0.00
+Edgewater,8491404972909,Level 03 > 3.12 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404973446,Level 03 > 3.11,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove all paint marks on doors, hinges, mirror, windows and cabinets",,,None,0.00
+Edgewater,8491404973481,Level 03 > 3.11 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Paint marks
+Incomplete",,,None,0.00
+Edgewater,8491404973521,Level 03 > 3.11 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Repaint frame , caulking to top of frame",,,None,0.00
+Edgewater,8491404973539,Level 03 > 3.11 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Patch up, paint",,,None,0.00
+Edgewater,8491404973577,Level 03 > 3.11 > Entry/Hall,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Caulk, paint",,,None,0.00
+Edgewater,8491404973661,Level 03 > 3.11 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Re sand, paint wall and architrave",,,None,0.00
+Edgewater,8491404973682,Level 03 > 3.11 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404973797,Level 03 > 3.11 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Touch up,,,None,0.00
+Edgewater,8491404973828,Level 03 > 3.11 > Bathroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404973859,Level 03 > 3.11 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404973875,Level 03 > 3.11 > Bedroom,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,Paint marks,,,None,0.00
+Edgewater,8491404974157,Level 03 > 3.11 > Kitchen,2014-07-10,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-14,None,Open,"Remove paint marks, caulking to the lines",,,None,0.00
+Edgewater,8491405038539,Level 01 > 1.10 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405038562,Level 01 > 1.10 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405038744,Level 01 > 1.18 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Touch up,,,None,0.00
+Edgewater,8491405038853,Level 01 > 1.09 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491405039026,Level 01 > 1.08,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405039138,Level 01 > 1.17 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Touch up,,,None,0.00
+Edgewater,8491405039210,Level 01 > 1.07,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405039381,Level 01 > 1.06 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491405039764,Level 01 > 1.03 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405040056,Level 01 > 1.12 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405040194,Level 01 > 1.11,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405040211,Level 01 > 1.11,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405040360,Level 02 > 2.01 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tape,,,None,0.00
+Edgewater,8491405040437,Level 02 > 2.11 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405040534,Level 02 > 2.12 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405040698,Level 02 > 2.13 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405040771,Level 02 > 2.03 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405040867,Level 02 > 2.14 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405040970,Level 02 > 2.04 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,"Repaint, remove sticky tapes",,,None,0.00
+Edgewater,8491405041115,Level 02 > 2.05 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405041223,Level 02 > 2.15 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Paint,,,None,0.00
+Edgewater,8491405041294,Level 02 > 2.06 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405041569,Level 02 > 2.08 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405041588,Level 02 > 2.08 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Touch up,,,None,0.00
+Edgewater,8491405041734,Level 02 > 2.09 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405042623,Level 03 > 3.16 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Paint,,,None,0.00
+Edgewater,8491405042781,Level 03 > 3.15 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405043092,Level 03 > 3.13 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405043230,Level 03 > 3.03 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Remove sticky tapes,,,None,0.00
+Edgewater,8491405043425,Level 03 > 3.12 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting ,,,None,0.00
+Edgewater,8491405043502,Level 03 > 3.11 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Incomplete painting,,,None,0.00
+Edgewater,8491405043587,Level 03 > 3.01 > Balcony,2014-07-11,henryt,Defect,Superintendant,Easy Painting (Steve Bruni),2014-07-19,None,Open,Repaint down pipe ,,,None,0.00

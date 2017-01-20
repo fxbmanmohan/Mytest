@@ -1,0 +1,117 @@
+Project,Inspection Id,Location,Date Raised,Inspected By,Inspecton Type,Raised By,Issue To,Fixed By Date,Cost Attribute,Status,Description,Note,Cost Impact,Cost Impact Price
+The Albert,8181402543100,Precast  > Building A  > Ground,12/06/2014,aidanr,Defect,Builder,Champion (Dennis),12/08/2014,None,Closed,Chipped precast panel,,,None,0.00
+The Albert,8181402543350,Precast  > Building A  > Ground,12/06/2014,vincec,Defect,Builder,Nucon (Trevor),12/08/2014,None,Closed,Horizontal marks on panel,,,None,0.00
+The Albert,8181402543596,Precast  > Building A  > Ground,12/06/2014,vincec,Defect,Builder,Champion (Dennis),12/08/2014,None,Closed,Chips in precast,,,None,0.00
+The Albert,8181409096948,General Ground > Common Areas,27/08/2014,aidanr,Defect,Builder,ABD Group (Alex K),13/09/2014,None,Closed,Thin paint,,,None,0.00
+The Albert,8181409097009,General Ground > Common Areas,27/08/2014,aidanr,Defect,Builder,ABD Group (Alex K),29/08/2014,None,Closed,Re plaster wall,,,None,0.00
+The Albert,8181409792693,Precast  > Building D  > Level 03,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Closed,Panel chipped,,,None,0.00
+The Albert,8181409792964,Precast  > Building D  > Level 03,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Closed,Panel chipped at the bottom,,,None,0.00
+The Albert,8181409793462,Precast  > Building D  > Level 02,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Open,Top of panel chipped,,,None,0.00
+The Albert,8181409793560,Precast  > Building D  > Level 02,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Open,"Chipped panel
+",,,None,0.00
+The Albert,8181409793963,Precast  > Building A  > Level 02,04/09/2014,aidanr,Defect,Builder,Champion (Dennis),10/09/2014,None,Open,Drill holes after fixing of stop end,,,None,0.00
+The Albert,8181409794098,Precast  > Building A  > Level 02,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Open,Chipped panel,,,None,0.00
+The Albert,8181409794337,Precast  > Building A  > Level 02,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Open,Panel chipped at top,,,None,0.00
+The Albert,8181409794794,Precast  > Building A  > Level 01,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Open,Chipped panel at top,,,None,0.00
+The Albert,8181409795096,Precast  > Building C  > Level 01,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Open,Chipped panel,,,None,0.00
+The Albert,8181409795341,Precast  > Building B  > Ground,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Closed,Chipped panel,,,None,0.00
+The Albert,8181409795479,Precast  > Building C  > Ground,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Closed,Panel chipped at the top,,,None,0.00
+The Albert,8181409795890,Precast  > Building C  > Level 01,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Closed,Chipped panel,,,None,0.00
+The Albert,8181409796006,Precast  > Building B  > Level 01,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Open,Chipped panel,,,None,0.00
+The Albert,8181409796186,Precast  > Building B  > Level 01,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Open,Top of panel untidy,,,None,0.00
+The Albert,8181409796353,Precast  > Building A  > Level 01,04/09/2014,aidanr,Defect,Builder,Nucon (Trevor),10/09/2014,None,Closed,Joint between panels untidy,,,None,0.00
+The Albert,8181410322460,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Panel not corked,,,None,0.00
+The Albert,8181410322590,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Panel not corked,,,None,0.00
+The Albert,8181410322674,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Panel not corked,,,None,0.00
+The Albert,8181410322760,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Stripping to be complete,,,None,0.00
+The Albert,8181410322901,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Patching to be done - rough between where bonded meets concrete,,,None,0.00
+The Albert,8181410322976,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Panel not corked,,,None,0.00
+The Albert,8181410323086,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Prop locations to be patched on all panels,,,None,0.00
+The Albert,8181410323201,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Patching to be done -rough where bondek meets concrete,,,None,0.00
+The Albert,8181410323289,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Prop points to be patched (on all panels),,,None,0.00
+The Albert,8181410323353,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Stripping incomplete,,,None,0.00
+The Albert,8181410323421,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Plate welding incomplete,,,None,0.00
+The Albert,8181410323486,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Corking to be done,,,None,0.00
+The Albert,8181410323652,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Stripping incomplete,,,None,0.00
+The Albert,8181410323735,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Stripping incomplete,,,None,0.00
+The Albert,8181410323811,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Corking to be complete,,,None,0.00
+The Albert,8181410323901,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Concrete is very rough where it meets bondek,,,None,0.00
+The Albert,8181410324075,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Rough concrete where it meets bondek + nails protruding from concrete + where concrete meets precast,,,None,0.00
+The Albert,8181410324148,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Panel not corked,,,None,0.00
+The Albert,8181410324654,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Patching at stair required,,,None,0.00
+The Albert,8181410324726,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Honey combing at stairs to be patched,,,None,0.00
+The Albert,8181410324858,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Plates to be welded inside stair core,,,None,0.00
+The Albert,8181410324988,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Grout holes on all panels to be patched,,,None,0.00
+The Albert,8181410325123,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,"Cork panel, patch grout hole, patch prop points, patch base",,,None,0.00
+The Albert,8181410325241,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Rough where concrete meets bondek,,,None,0.00
+The Albert,8181410325328,Building A > Ground > Common Areas,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Stripping incomplete,,,None,0.00
+The Albert,8181410325716,Building A > Level 01 > Common Areas > Stair,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Remove all nails,,,None,0.00
+The Albert,8181410325784,Building A > Level 01 > Common Areas > Stair,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Cork panel,,,None,0.00
+The Albert,8181410326248,Building A > Level 01 > Common Areas > Stair,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Stripping to be complete,,,None,0.00
+The Albert,8181410326363,Building A > Level 01 > Common Areas > Stair,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Cork panels,,,None,0.00
+The Albert,8181410326470,Building A > Level 01 > Common Areas > Stair,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Plates to be welded at stair precast,,,None,0.00
+The Albert,8181410326527,Building A > Level 01 > Common Areas > Stair,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Peno to be stripped,,,None,0.00
+The Albert,8181410326642,Building A > Level 01 > Common Areas > Stair,10/09/2014,aidanr,Defect,Builder,Champion (Dennis),13/09/2014,None,Closed,Cork panels,,,None,0.00
+The Albert,8181410752099,Precast  > Building C  > Level 02,15/09/2014,aidanr,Defect,Builder,Nucon (Trevor),18/09/2014,None,Open,Badly chipped panel,,,None,0.00
+The Albert,8181416265785,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Closed,Patch above stairs at landing,,,None,0.00
+The Albert,8181416265947,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Closed,Cork between precast and block work,,,None,0.00
+The Albert,8181416266106,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch honey combing at stair landing soffit,,,None,0.00
+The Albert,8181416266183,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Complete corking and tidy up,,,None,0.00
+The Albert,8181416266268,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch between landing and precast,,,None,0.00
+The Albert,8181416266331,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Weld handrail,,,None,0.00
+The Albert,8181416266446,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch above precast under stair soffit,,,None,0.00
+The Albert,8181416266551,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Denail soffit,,,None,0.00
+The Albert,8181416266616,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Precast to soffit untidy -patch ,,,None,0.00
+The Albert,8181416266720,Building A > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Above step untidy level 1 -2 half landing,,,None,0.00
+The Albert,8181416268130,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch above stair,,,None,0.00
+The Albert,8181416268195,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch corner of precast panel,,,None,0.00
+The Albert,8181416268265,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch stitch plate,,,None,0.00
+The Albert,8181416268321,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch prop points,,,None,0.00
+The Albert,8181416268399,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Honey combing on soffit -patch,,,None,0.00
+The Albert,8181416268637,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Remove jack from under stair - patch floor,,,None,0.00
+The Albert,8181416268712,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Denial soffit,,,None,0.00
+The Albert,8181416268789,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Ground -1 - between precast grouting I'd very untidy,,,None,0.00
+The Albert,8181416268838,Building B > Ground > Lobby > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch grout holes,,,None,0.00
+The Albert,8181416268934,Building B > Level 01 > Common Areas > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Patch grout holes,,,None,0.00
+The Albert,8181416269183,Building B > Level 01 > Common Areas > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Soffit honey combing and Denail,,,None,0.00
+The Albert,8181416269505,Building B > Level 01 > Common Areas > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Grouting between precast panel in the corner,,,None,0.00
+The Albert,8181416269571,Building B > Level 01 > Common Areas > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Grouting between panels is very untidy ,,,None,0.00
+The Albert,8181416269743,Building C > Level 01 > Common Areas > Stair,18/11/2014,aidanr,Defect,Builder,Champion (Dennis),22/11/2014,None,Open,Grouting done terribly ,,,None,0.00
+The Albert,9221423623249,Building A > Ground > Apartments > A003 > Terrace,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Caulking to panels,,,None,0.00
+The Albert,9221423623310,Building A > Ground > Apartments > A003 > Terrace,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Job to remove,,,None,0.00
+The Albert,9221423623696,Building A > Ground > Apartments > A002 > Living,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Remove steel bar and patch,,,None,0.00
+The Albert,9221423623797,Building A > Ground > Apartments > A002 > Bedroom 01,11/02/2015,rconti,Defect,Builder,Champion (Tass),17/02/2015,None,Open,Grind slab surface flush,,,None,0.00
+The Albert,9221423624071,Building A > Ground > Apartments > A001 > Living,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Gap to be filled,,,None,0.00
+The Albert,9221423624137,Building A > Ground > Apartments > A001 > Bedroom 01,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Gap to be filled to slab,,,None,0.00
+The Albert,9221423624214,Building A > Ground > Apartments > A001 > Bedroom 02,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Four holes in slab to fill,,,None,0.00
+The Albert,9221423624345,Building A > Ground > Apartments > A001 > Terrace,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Slab fill needed to square edge,,,None,0.00
+The Albert,9221423624455,Building D > Ground  > Apartments > D003 > Bedroom 01,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Slab fill needed,,,None,0.00
+The Albert,9221423624567,Building D > Ground  > Apartments > D002 > Bedroom 2,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Fill 2 holes in slab,,,None,0.00
+The Albert,9221423624822,Building D > Ground  > Apartments > D001 > Bedroom 02,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Fill slab holes,,,None,0.00
+The Albert,9221423624907,Building D > Ground  > Apartments > D001 > Living,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Grout remove from floor,,,None,0.00
+The Albert,9221423625190,Building D > Ground  > Common Areas,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Slab missing,,,None,0.00
+The Albert,9221423625438,Building B > Ground > Common Areas,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Patching to top of column,,,None,0.00
+The Albert,9221423625595,Building B > Ground > Common Areas,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Retaining wall to be built. Not shown on drawings,,,None,0.00
+The Albert,9221423625796,General Ground > Common Areas > Ground > Car Park,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Remove nails from bond deck,,,None,0.00
+The Albert,9221423625858,General Ground > Common Areas > Ground > Car Park,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Bond deck clean or spray silver cold gal to seal,,,None,0.00
+The Albert,9221423626043,General Ground > Common Areas > Ground > Car Park,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Saw dust to slab remove,,,None,0.00
+The Albert,9221423626313,Building C > Ground > Apartments > C001 > Living,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Fill hole in slab,,,None,0.00
+The Albert,9221423626392,Building C > Ground > Apartments > C001 > Bedroom 01,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Fill hole in slab,,,None,0.00
+The Albert,9221423626802,Building B > Ground > Lobby,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Caulking to top of panel,,,None,0.00
+The Albert,9221423626972,General Ground > Common Areas > Ground > Car Park,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Clean under face where bond deck,,,None,0.00
+The Albert,9221423627033,General Ground > Common Areas > Ground > Car Park,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Caulking to top of panel,,,None,0.00
+The Albert,9221423627417,General Ground > Common Areas > Ground > Commercial Bins,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Patching to inside bin room,,,None,0.00
+The Albert,9221423627558,General Ground > Common Areas > Ground > Car Park,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Surface finish slab floor,,,None,0.00
+The Albert,9221423627643,General Ground > Common Areas > Ground > Car Park,11/02/2015,rconti,Defect,Builder,Champion (Tass),18/02/2015,None,Open,Install joint cover strap to soffit,,,None,0.00
+The Albert,9221423707622,Building A > Level 01 > Common Areas > Courtyard,12/02/2015,rconti,Incomplete Works,Builder,Champion (Tass),19/02/2015,None,Open,Grouting tubes to remove,,,None,0.00
+The Albert,9221423786261,Building D > Level 02 > Apartments > D212 > Terrace,13/02/2015,rconti,Incomplete Works,Builder,Champion (Tass),17/02/2015,None,Open,Caulking to slab missing,,,None,0.00
+The Albert,9221424043372,Building D > Ground  > Apartments > D001 > Bedroom 02,16/02/2015,rconti,Incomplete Works,Builder,Champion (Tass),21/02/2015,None,Open,Concrete - Slab Not Extended needs filling,,,None,0.00
+The Albert,9221424068002,Building C > Level 01 > Apartments > C113 > Laundry,16/02/2015,rconti,Defect,Builder,Champion (Tass),20/02/2015,None,Open,Concrete - no fall to waste outlet,,,None,0.00
+The Albert,9221424068116,Building C > Level 01 > Apartments > C113 > Laundry,16/02/2015,rconti,Defect,Builder,Champion (Tass),20/02/2015,None,Open,Concrete - no fall to waste,,,None,0.00
+The Albert,9221424068206,Building C > Level 01 > Apartments > C112 > Laundry,16/02/2015,rconti,Defect,Builder,Champion (Tass),20/02/2015,None,Open,Concrete - no fall to waste ,,,None,0.00
+The Albert,9301423705642,Building A > Level 01 > Apartments > A104 > Living,12/02/2015,cknapic,Defect,Builder,XPRO Constructions Pty Ltd. (Ivan Delic),20/02/2015,None,Open,Patch and paint,,,None,0.00
+The Albert,9301423705850,Building A > Level 01 > Common Areas > Courtyard,12/02/2015,cknapic,Incomplete Works,Builder,Champion (Tass),11/03/2015,None,Open,Expansion joint to be sealed,,,None,0.00
+The Albert,9301423785618,Building D > Level 02 > Apartments > D212 > Terrace,13/02/2015,cknapic,Defect,Builder,Champion (Tass),21/02/2015,None,Open,Caulking to slab missing,,,None,0.00
+The Albert,9301423785806,Building D > Level 02 > Apartments > D212 > Terrace,13/02/2015,cknapic,Incomplete Works,Builder,Champion (Tass),18/02/2015,None,Open,Caulking to slab missing,,,None,0.00
+The Albert,9301423785884,Building D > Level 02 > Apartments > D212 > Terrace,13/02/2015,cknapic,Incomplete Works,Builder,Champion (Tass),17/02/2015,None,Open,Caulking to slab missing,,,None,0.00
+The Albert,9421423803846,General Ground > Common Areas > Ground > Car Park,13/02/2015,epozzebon,Defect,Builder,Trio Plumbing Australia (Rick Bertone),14/02/2015,None,Open,Patch hole in wall,,,None,0.00

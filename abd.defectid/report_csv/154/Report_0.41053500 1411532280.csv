@@ -1,0 +1,43 @@
+Project,Inspection Id,Location,Date Raised,Inspected By,Inspecton Type,Raised By,Issue To,Fixed By Date,Cost Attribute,Status,Description,Note,Cost Impact,Cost Impact Price
+La Scala,7781395882617,Level 02 > 206D > Bedroom 1 > Ensuite,27/03/2014,kreardon,Defect,Builder,Nemo (Paul),26/04/2014,None,Closed,Touch up paint + skirt,,,None,0.00
+La Scala,7781395882657,Level 02 > 206D > Bedroom 1,27/03/2014,billb,Defect,Builder,Valley Constructions (Eric) (Eric),26/04/2014,None,Closed,Uninstalled window + touch up and skirt,,,None,0.00
+La Scala,7781395882705,Level 02 > 206D > Living,27/03/2014,billb,Defect,Builder,Rising Star (Alan) (Alan),26/04/2014,None,Closed,Uninstalled frame + revealing ceiling,,,None,0.00
+La Scala,7781395882723,Level 02 > 206D > Living,27/03/2014,billb,Defect,Builder,Oscan Windows (Dean) (Dean),26/04/2014,None,Closed,Uninstalled window,,,None,0.00
+La Scala,7781395882747,Level 02 > 206D > Living,27/03/2014,billb,Defect,Builder,Nemo (Paul),26/04/2014,None,Closed,Skirts,,,None,0.00
+La Scala,7781395882772,Level 02 > 206D > Bedroom 2,27/03/2014,billb,Defect,Builder,Nemo (Paul),26/04/2014,None,Closed,Touch up paint + skirts,,,None,0.00
+La Scala,7781395882796,Level 02 > 206D > Bedroom 2,27/03/2014,billb,Defect,Builder,Nemo (Paul),26/04/2014,None,Closed,Touch up paint + skirts,,,None,0.00
+La Scala,7781404709649,Level 02 > 206D > Balcony,07/07/2014,billb,Incomplete Works,Builder,Baron Forge (tiler) (Scott Kidd),12/07/2014,None,Closed,Tiles not installed,,,None,0.00
+La Scala,7781404709708,Level 02 > 206D > Balcony,07/07/2014,billb,Incomplete Works,Builder,Coldlfow (Kenneth Chan),09/07/2014,None,Closed,Fit off condenser,,,None,0.00
+La Scala,7781404709792,Level 02 > 206D > Balcony,07/07/2014,kreardon,Incomplete Works,Builder,Oscan Windows (Dean) (Dean),09/07/2014,None,Closed,Caulking missing to hobb,,,None,0.00
+La Scala,7781404709837,Level 02 > 206D > Balcony,07/07/2014,billb,Incomplete Works,Builder,Aluline (Baci) (Baci),11/07/2014,None,Closed,Privacy screen missing,,,None,0.00
+La Scala,7781404709899,Level 02 > 206D > Living,07/07/2014,billb,Incomplete Works,Builder,Champion (Dennis),08/07/2014,None,Closed,Floor requires patching,,,None,0.00
+La Scala,7781404709954,Level 02 > 206D > Kitchen,07/07/2014,kreardon,Incomplete Works,Builder,NA,14/07/2014,None,Closed,Draws missing,,,None,0.00
+La Scala,7781404710020,Level 02 > 206D > Kitchen,07/07/2014,kreardon,Incomplete Works,Builder,NA,18/07/2014,None,Closed,Splash back missing,,,None,0.00
+La Scala,7781404713281,Level 02 > 206D > Kitchen,07/07/2014,kreardon,Incomplete Works,Builder,Valley Constructions (Eric) (Eric),08/07/2014,None,Closed,Paint missing to bulk head,,,None,0.00
+La Scala,7781404713633,Level 02 > 206D > Kitchen,07/07/2014,kreardon,Incomplete Works,Builder,VAST ELECTRICAL (Danny),09/07/2014,None,Closed,Oven not installed,,,None,0.00
+La Scala,7781404713671,Level 02 > 206D > Kitchen,07/07/2014,kreardon,Incomplete Works,Builder,AYWON-CARPET+TIMBER (Tony),09/07/2014,None,Closed,Carpet not installed,,,None,0.00
+La Scala,7781404713724,Level 02 > 206D > Kitchen,07/07/2014,kreardon,Incomplete Works,Builder,Trio Plumbing Australia (Trevor Hanover),09/07/2014,None,Closed,Sink tap not installed,,,None,0.00
+La Scala,7781404713814,Level 02 > 206D > Laundry,07/07/2014,billb,Incomplete Works,Builder,NA,09/07/2014,None,Closed,Doors not installed,,,None,0.00
+La Scala,7781404713861,Level 02 > 206D > Laundry,07/07/2014,kreardon,Incomplete Works,Builder,Baron Forge (tiler) (Scott Kidd),09/07/2014,None,Closed,Skirting tiles missing,,,None,0.00
+La Scala,7781404713924,Level 02 > 206D > Bedroom 1 > Ensuite,07/07/2014,billb,Incomplete Works,Builder,Baron Forge (tiler) (Scott Kidd),09/07/2014,None,Closed,Stone top missing,,,None,0.00
+La Scala,7781404713979,Level 02 > 206D > Bedroom 1 > Ensuite,07/07/2014,billb,Incomplete Works,Builder,Trio Plumbing Australia (Trevor Hanover),10/07/2014,None,Closed,Sink not install due to stone missing,,,None,0.00
+La Scala,7781404714019,Level 02 > 206D > Bedroom 1 > Ensuite,07/07/2014,kreardon,Incomplete Works,Builder,Baron Forge (tiler) (Scott Kidd),07/07/2014,None,Closed,Caulking missing to tiles,,,None,0.00
+La Scala,7781404714046,Level 02 > 206D > Bedroom 1 > Ensuite,07/07/2014,kreardon,Incomplete Works,Builder,Baron Forge (tiler) (Scott Kidd),07/07/2014,None,Closed,Caulking missing to tiles,,,None,0.00
+La Scala,7781404714109,Level 02 > 206D > Bedroom 1,07/07/2014,billb,Incomplete Works,Builder,NA,09/07/2014,None,Closed,Robe rails missing,,,None,0.00
+La Scala,7781404714181,Level 02 > 206D > Bathroom,07/07/2014,billb,Incomplete Works,Builder,Trio Plumbing Australia (Trevor Hanover),09/07/2014,None,Closed,Caulking to toilet missing,,,None,0.00
+La Scala,7781404714216,Level 02 > 206D > Bathroom,07/07/2014,billb,Incomplete Works,Builder,Baron Forge (tiler) (Scott Kidd),10/07/2014,None,Closed,Caulking missing to tiles,,,None,0.00
+La Scala,7781404715200,Level 02 > 206D > Bedroom 1,07/07/2014,kreardon,Incomplete Works,Builder,NA,09/07/2014,None,Closed,Caulking required to highlight window,,,None,0.00
+La Scala,7781407376630,Level 02 > 206D > Bedroom 1,07/08/2014,billb,Incomplete Works,Builder,Valley Constructions (Eric) (Eric),12/08/2014,None,Closed,Re paint in wardrobe,,,None,0.00
+La Scala,7781407376745,Level 02 > 206D > Bedroom 1 > Ensuite,07/08/2014,kreardon,Incomplete Works,Builder,NA,11/08/2014,None,Closed,Paint skirt tile,,,None,0.00
+La Scala,7781407376767,Level 02 > 206D > Bedroom 1 > Ensuite,07/08/2014,kreardon,Incomplete Works,Builder,DPS (Bruce),14/08/2014,None,Open,Adjust drawers ,,,None,0.00
+La Scala,7781407376833,Level 02 > 206D > Bedroom 1 > Ensuite,07/08/2014,billb,Incomplete Works,Builder,NA,11/08/2014,None,Closed,"Caulking to stone, mirror and basin",,,None,0.00
+La Scala,7781407376971,Level 02 > 206D > Living,07/08/2014,billb,Incomplete Works,Builder,NA,11/08/2014,None,Closed,Caulk switchboard,,,None,0.00
+La Scala,7781407377028,Level 02 > 206D > Bedroom 1,07/08/2014,billb,Incomplete Works,Builder,DPS (Bruce) > Nemo (Paul) > Valley Constructions (Eric) (Eric),11/08/2014 > 08/08/2014 > 08/08/2014,None > None > None,Closed > Closed > Closed,Cavity slider catching. Joinery screw???,,,None,0.00
+La Scala,7781407377253,Level 02 > 206D > Kitchen,07/08/2014,billb,Incomplete Works,Builder,DPS (Bruce),11/08/2014,None,Closed,Adjust drawers and laundry doors,,,None,0.00
+La Scala,7781407377437,Level 02 > 206D > Kitchen,07/08/2014,billb,Incomplete Works,Builder,DPS (Bruce),11/08/2014,None,Closed,Chip in drawer,,,None,0.00
+La Scala,7781407377487,Level 02 > 206D > Kitchen,07/08/2014,billb,Incomplete Works,Builder,Valley Constructions (Eric) (Eric),11/08/2014,None,Closed,Touch up paint,,,None,0.00
+La Scala,7781407377666,Level 02 > 206D > Kitchen,07/08/2014,kreardon,Incomplete Works,Builder,DPS (Bruce),11/08/2014,None,Open,Pantry shelf missing,,,None,0.00
+La Scala,7781407377864,Level 02 > 206D > Kitchen,07/08/2014,billb,Incomplete Works,Builder,NA,12/08/2014,None,Closed,Dint in door of dishwasher,,,None,0.00
+La Scala,7781410224762,Level 02 > 206D > Living,09/09/2014,billb,Defect,Builder,ABD Group (Mick S),15/09/2014,None,Open,General clean entire apartment ,,,None,0.00
+La Scala,7781410224793,Level 02 > 206D > Kitchen,09/09/2014,billb,Defect,Builder,DPS (Bruce),15/09/2014,None,Open,Drawers/ cupboards to be adjusted ,,,None,0.00
+La Scala,7781410224831,Level 02 > 206D > Kitchen,09/09/2014,billb,Defect,Builder,Trio Plumbing Australia (Trevor Hanover),16/09/2014,None,Open,Dint in dishwasher,,,None,0.00

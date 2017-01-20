@@ -1,0 +1,4 @@
+Project,Inspection Id,Location,Date Raised,Inspected By,Inspecton Type,Raised By,Issue To,Fixed By Date,Cost Attribute,Status,Description,Note,Cost Impact,Cost Impact Price
+Edgewater,7821382404785,Ground > G.18,22/10/2013,alexk,Defect,Builder,Quadform,24/10/2013,None,Open,Caulking missing top of panels,,,None,0.00
+Edgewater,7821382405280,Ground > G.13 > Entry/Hall,22/10/2013,fcefala,Defect,Builder,Quadform,24/10/2013,None,Closed,Caulk top of panel to ceiling,,,None,0.00
+Edgewater,7821395185332,Ground > G.01 > Balcony,19/03/2014,alexk,Incomplete Works,Builder,ABD Group (Alex K),20/03/2014,Backcharge,Open,No tiles on balcony,Test defect,,None,0.00

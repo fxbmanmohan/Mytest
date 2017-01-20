@@ -1,0 +1,12 @@
+Project,Inspection Id,Location,Date Raised,Inspected By,Inspecton Type,Raised By,Issue To,Fixed By Date,Cost Attribute,Status,Description,Note,Cost Impact,Cost Impact Price
+Zano,9221426551634,Building > Level 01 > Apartments > 109 > Balcony,17/03/2015,rconti,Incomplete Works,Builder,Progap (Robert Giangrave),21/03/2015,None,Closed,Precast - patching required,,,None,0.00
+Zano,9221426641824,Building > Level 01 > Apartments > 104 > Kitchen,18/03/2015,rconti,Issue,Builder,Queens Dream Joinery (Lili Cai),11/04/2015,None,Closed,Kitchen - draws supplied - insufficient gap between draw panels to fit handle sets,,,None,0.00
+Zano,10041426550276,Building > Level 01 > Common Areas > Passage,17/03/2015,jderbyshire,Incomplete Works,Builder,Aardvark (Kevan),25/03/2015,None,Closed,"Communication Services - NBN, conduit not connected",,,None,0.00
+Zano,10041426551360,Building > Level 01 > Apartments > 109 > Balcony,17/03/2015,jderbyshire,Incomplete Works,Builder,Progap (Robert Giangrave),25/03/2015,None,Closed,Precast Panel - chalking required to top of panels L1. Progap,,,None,0.00
+Zano,10041427233564,Building > Level 04 > Apartments > 409 > Living,25/03/2015,jderbyshire,Defect,Builder,Progap (Robert Giangrave),02/04/2015,None,Closed,Dry pack under slab,,,None,0.00
+Zano,10041427233689,Building > Level 05 > Common Areas > Lobby > Stair,25/03/2015,jderbyshire,Defect,Builder,Progap (Robert Giangrave),02/04/2015,None,Closed,Scrape concrete off stair,,,None,0.00
+Zano,10041427233949,Building > Level 05 > Apartments > 501 > Balcony,25/03/2015,jderbyshire,Defect,Builder,Progap (Robert Giangrave),02/04/2015,None,Closed,Patch grout tubes,,,None,0.00
+Zano,10041427234636,Building > Level 04 > Common Areas > Lobby > Stair,25/03/2015,jderbyshire,Defect,Builder,Progap (Robert Giangrave),02/04/2015,None,Closed,Scape concrete off floor,,,None,0.00
+Zano,10041427234885,Building > Level 03 > Common Areas > Lobby > Lift Lobby,25/03/2015,jderbyshire,Defect,Builder,Progap (Robert Giangrave),02/04/2015,None,Closed,Scrape concrete off floor,,,None,0.00
+Zano,10041427235706,Building > Level 01 > Apartments > 109 > Balcony,25/03/2015,jderbyshire,Defect,Builder,Progap (Robert Giangrave),02/04/2015,None,Closed,Chalk top of pre-cast,,,None,0.00
+Zano,10141428637028,Building > Ground > Elec Meter,10/04/2015,rconti,Defect,Builder,ABD Group (Chris Baker),11/04/2015,None,Closed,Test,,,None,0.00
